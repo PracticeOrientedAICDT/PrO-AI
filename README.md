@@ -1,1 +1,1 @@
-# practice_oriented_cdt
+# practice_oriented_ai_cdt
