@@ -1,0 +1,13 @@
+---
+title: "Cohort 2024"
+listing:
+  id: content_listings
+  contents: cohort_2024_students
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  max-description-length: 250
+---
