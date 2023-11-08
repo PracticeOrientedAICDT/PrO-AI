@@ -3,5 +3,3 @@ title: "Practice Oriented AI CDT"
 ---
 
 This Centre for Doctoral Training (CDT) has been funded by UKRI to train the next generation of innovators in human-in-the-loop AI systems, enabling them to responsibly solve societally important problems. We are recruiting researchers from 2019-2023, with the last cohort graduating in July 2027.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

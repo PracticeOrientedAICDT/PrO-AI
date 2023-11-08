@@ -1,3 +1,11 @@
 ---
 title: "How to Apply"
 ---
+
+
+## Entry Requirements
+
+Applicants must hold/achieve a minimum of an upper-second class honours degree (or international equivalent)
+in a relevant discipline. The Interactive Artificial Intelligence CDT is primarily aimed at students with a
+first degree in engineering or science and with strong programming skills, but will also consider applicants
+with suitable skills acquired in employment.

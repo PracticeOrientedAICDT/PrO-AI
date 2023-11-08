@@ -1,3 +1,13 @@
 ---
 title: "Foundational Year"
 ---
+
+The foundation year involves a series of modules covering the five core foundations:
+
+    - Data-Driven AI
+    - Knowledge-Driven AI
+    - Human-AI Interaction
+    - Responsible AI
+    - Interactive AI in Context
+
+You will complete a range of individual and group projects in preparation for your research project. The material is divided into three main teaching blocks - Teaching Block 1 (TB1, Autumn-Winter), Teaching Block 2 (TB2, Spring) and Teaching Block 3 (TB3, Summer).

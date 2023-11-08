@@ -2,20 +2,9 @@
   {
     "listing": "/cohort_2024.html",
     "items": [
-      "/practice_oriented_ai_cdt/cohort_2024_students/student_2.html",
-      "/practice_oriented_ai_cdt/cohort_2024_students/student_3.html",
-      "/practice_oriented_ai_cdt/cohort_2024_students/student_1.html",
       "/cohort_2024_students/student_2.html",
       "/cohort_2024_students/student_3.html",
       "/cohort_2024_students/student_1.html"
-    ]
-  },
-  {
-    "listing": "/practice_oriented_ai_cdt/cohort_2024.html",
-    "items": [
-      "/practice_oriented_ai_cdt/cohort_2024_students/student_2.html",
-      "/practice_oriented_ai_cdt/cohort_2024_students/student_3.html",
-      "/practice_oriented_ai_cdt/cohort_2024_students/student_1.html"
     ]
   }
 ]

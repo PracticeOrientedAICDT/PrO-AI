@@ -1,3 +1,27 @@
 ---
 title: "Why Study With Us"
 ---
+
+## Why study Interactive AI at the University of Bristol? 
+
+
+
+Bristol is a fantastic place to live with a lively AI, machine learning and data science community. In addition to being part of a world-leading research and training environment, Interactive AI students will benefit from a wide range of extra training opportunities, events and support structures: 
+
+    - Students have access to a wide range of research seminars, reading groups and other events on relevant
+    topics at Bristol, including an IAI Summer School and Winter School and an Interactive AI seminar series. 
+    
+    - A programming trainer will be available to provide advanced training and support to students in using
+    the university’s high-performance computing and data storage systems. 
+    
+    - Bristol is a full partner of the Alan Turing Institute, the national research institute for Data Science
+    and AI, which will provide access to further training and CDT-related activities.
+    
+    - The students will have the option to complete an internship or research visit to a national/international
+    academic partner or industrial lab for one to three months. Leading universities (e.g. KU Leuven, UCL, Leiden, Nottingham, UP Valencia, Gent, Aalto, LMU Munich) and companies (e.g. Amazon, Microsoft, Thales) have agreed to host CDT students.
+    
+    - Professional and personal development opportunities include courses on entrepreneurial skills and public engagement training. 
+    
+    - Access to other training elements from the wider AI and domain-specific courses
+    that the University offers.
+
