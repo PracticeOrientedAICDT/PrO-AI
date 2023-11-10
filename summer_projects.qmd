@@ -2,6 +2,4 @@
 title: "Summer Projects"
 ---
 
-## Summer Projects
-
 TBA

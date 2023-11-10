@@ -1,8 +1,6 @@
 1---
-title: "About the Centre"
+title: "About the PrO-AI CDT"
 ---
-
-## About
 
 The UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence (PrO-AI) will deliver the next generation of innovators producing state-of-the-art AI solutions in existing and future domains that will transform UK science, economy and society. Founded on our extensive experience in doctoral training for designing and building complex human-centred AI pipelines, and developed in collaboration with a broad range of industry partners, the PrO-AI CDT will equip researchers with essential skills in co-designing and building practice-oriented AI applications across science and research domains of national importance. The specific objectives are:
 

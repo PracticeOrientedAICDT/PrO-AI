@@ -1,5 +1,5 @@
 ---
-title: "Foundational Year"
+title: "Foundation Year"
 ---
 
 In close conversation with our industry partners, we identified Practice-Oriented Artificial Intelligence (PrO-AI) as a core sub-discipline of AI where the need for and deficit in skills is abundantly evident, while being homogeneous enough to have intellectual integrity and be explored and researched within the context of a single CDT. The most important aspects of the bespoke training programme are:

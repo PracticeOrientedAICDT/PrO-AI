@@ -2,6 +2,4 @@
 title: "People"
 ---
 
-## People
-
 TBA

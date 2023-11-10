@@ -2,8 +2,6 @@
 title: "Partners"
 ---
 
-## Partners
-
 We partner with industries in the following sectors: 
 
 - Aerospace
