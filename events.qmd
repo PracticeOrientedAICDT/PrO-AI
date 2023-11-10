@@ -3,3 +3,5 @@ title: "Events"
 ---
 
 ## Events
+
+See https://www.bristol.ac.uk/cdt/interactive-ai/events/

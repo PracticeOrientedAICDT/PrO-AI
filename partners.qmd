@@ -3,3 +3,25 @@ title: "Partners"
 ---
 
 ## Partners
+
+We partner with industries in the following sectors: 
+
+- Aerospace
+- AI Consultancy
+- Cloud computing
+- Data analytics
+- Digital democracy
+- Digital transformation
+- General Insurance
+- Geo-mapping
+- Global electronics
+- Hardware design
+- Home energy services
+- IT solutions
+- Mission-critical solutions
+- Online coaching
+- Pharmaceuticals
+- Renewable energy
+- Semiconductors
+- Technology Consultancy
+- Volumetric VR

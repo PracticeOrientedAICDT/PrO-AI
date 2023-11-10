@@ -2,12 +2,12 @@
 title: "Foundational Year"
 ---
 
-The foundation year involves a series of modules covering the five core foundations:
+In close conversation with our industry partners, we identified Practice-Oriented Artificial Intelligence (PrO-AI) as a core sub-discipline of AI where the need for and deficit in skills is abundantly evident, while being homogeneous enough to have intellectual integrity and be explored and researched within the context of a single CDT. The most important aspects of the bespoke training programme are:
 
-    - Data-Driven AI
-    - Knowledge-Driven AI
-    - Human-AI Interaction
-    - Responsible AI
-    - Interactive AI in Context
+- Practice projects will be run in close collaboration with CDT partners (academic and industry) and across CDT cohorts to offer 'deep dives' into a research domain. Students will liaise with domain experts to get an understanding of their expertise, expectations and success criteria. Exploring different domains will allow the students to acquire the transferable skills that will be key when moving between domains in their future careers.
 
-You will complete a range of individual and group projects in preparation for your research project. The material is divided into three main teaching blocks - Teaching Block 1 (TB1, Autumn-Winter), Teaching Block 2 (TB2, Spring) and Teaching Block 3 (TB3, Summer).
+- The Foundations of Practice-Oriented AI module is run in a student-led, 'flipped classroom' manner and covers the main topics in data-driven AI, knowledge-intensive AI and human-AI interaction; human-centred and participatory methodologies to bring those AI techniques into practice; and the legal and ethical context that will help students to do so responsibly and in a manner beneficial to society. 
+
+- Academic mentors attend the sessions to gauge their mentee’s knowledge and identify areas where further study will be beneficial as part of the Research Orientation module, which completes a student’s foundational training in an individual-centred manner and guides them on the way to choosing a research topic for the Summer Project and subsequent PhD research.
+
+- Throughout their programme the students participate in and build an online portfolio of transferable skills training inspired by the Vitae Researcher Development Framework. This includes training in responsible innovation, entrepreneurship, hosting visitors, organising events, public engagement, citizen science, etc. A ‘serious game’ approach will encourage students to build their Researcher Development portfolio, unlocking additional research and training support resources when they reach certain milestones.

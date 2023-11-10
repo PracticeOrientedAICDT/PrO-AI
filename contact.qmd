@@ -3,3 +3,5 @@ title: "Contact"
 ---
 
 ## Contact
+
+Feel free to contact [the Interactive AI CDT admin team](mailto:iai-cdt@bristol.ac.uk) or [Prof Peter Flach, director of both CDTs](mailto:Peter.Flach@bristol.ac.uk). 

@@ -2,6 +2,8 @@
 title: "Blog"
 ---
 
+The new CDT doesn't yet have a blog, but in the meantime you can have a look at the Interactive AI CDT blog. 
+
 The IAI CDT uploads posts to its blog regularly, showcasing our latest research, events, and news.
 
 [Blog](https://interactiveai.blogs.bristol.ac.uk/)
