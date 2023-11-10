@@ -11,11 +11,11 @@ website:
         contents:
           - index.qmd
           - about.qmd
-          - equality_diversity_and_inclusion.qmd
           - people.qmd
           - partners.qmd
           - events.qmd
           - blog.qmd
+          - equality_diversity_and_inclusion.qmd
           - contact.qmd
         text: "Equality Diversity and Inclusion"
       - section: "Programme details"
