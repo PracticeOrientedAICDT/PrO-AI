@@ -1,1 +1,1 @@
-Sitemap: https://github.com/PracticeOrientedAICDT/practice_oriented_ai_cdt/sitemap.xml
+Sitemap: https://github.com/PracticeOrientedAICDT/PrO-AI/sitemap.xml
