@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Practice Oriented AI CDT"
+  title: "Practice-Oriented AI CDT"
   sidebar:
     collapse-level: 1
     style: "docked"
@@ -10,43 +10,24 @@ website:
       - section: "Home"
         contents:
           - index.qmd
-      - about.qmd
-      - section: "Equality, Diversity and Inclusion"
-        contents:
+          - about.qmd
           - equality_diversity_and_inclusion.qmd
+          - people.qmd
+          - partners.qmd
+          - events.qmd
+          - blog.qmd
+          - contact.qmd
         text: "Equality Diversity and Inclusion"
       - section: "Programme details"
         contents:
-          - foundational_year.qmd
-          - why_study_with_us.qmd
-      - funding.qmd
+          - foundation_year.qmd
+          - summer_projects.qmd
+          - phd_projects.qmd
       - section: "Apply"  
         contents:
+          - why_study_with_us.qmd
           - how_to_apply.qmd
-          - open_research_projects.qmd
-      - section: "Research Projects"
-        contents:
-          - phd_projects.qmd
-          - summer_projects.qmd
-      - section: "Blog"  
-        contents:
-          - blog.qmd
-      - section: "Current Students"  
-        contents:
-          - cohort_2024.qmd
-      - section: "People"  
-        contents:
-          - people.qmd
-      - section: "Partners"  
-        contents:
-          - partners.qmd
-      - section: "Events"  
-        contents:
-          - events.qmd
-      - section: "Contact"  
-        contents:
-          - contact.qmd
-    
+          - funding.qmd
 
 format:
   html:
