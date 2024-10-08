@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/people.html",
+    "items": [
+      "/people/cohort_2024.html"
+    ]
+  },
+  {
     "listing": "/cohort_2024.html",
     "items": [
       "/cohort_2024_students/student_1.html",
