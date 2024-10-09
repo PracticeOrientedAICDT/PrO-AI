@@ -4,14 +4,13 @@ project:
 website:
   title: "Practice-Oriented AI CDT"
   sidebar:
-    collapse-level: 1
+    collapse-level: 2
     style: "docked"
     contents:
       - section: "Home"
         contents:
           - index.qmd
           - about.qmd
-          - people.qmd
           - partners.qmd
           - events.qmd
           - blog.qmd
@@ -23,6 +22,11 @@ website:
           - foundation_year.qmd
           - summer_projects.qmd
           - phd_projects.qmd
+      - section: "People"
+        contents:
+          -  people/cohort_2024.qmd
+          -  people/staff.qmd
+          -  people/supervisors.qmd
       - section: "Apply"  
         contents:
           - why_study_with_us.qmd

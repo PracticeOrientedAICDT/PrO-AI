@@ -3,4 +3,5 @@ title: "People"
 listing:
     contents: people
     type: default
+    max-description-length: 0
 ---

@@ -2,7 +2,9 @@
 title: "Partners"
 ---
 
-We partner with industries in the following sectors: 
+Graduates will have the sought-after skills to adapt quickly to a problem domain in science and research that they haven't worked in previously. They can become part of new and existing world-class research groups, as well as pursue highly rewarding careers in a variety of industries around the world.
+
+Our industry partners cover a broad range of AI technologies and play different roles in enhancing the PrO-AI training programme. Current partners operate in the following industry sectors
 
 - Aerospace
 - AI Consultancy
