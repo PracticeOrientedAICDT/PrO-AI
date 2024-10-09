@@ -2,15 +2,17 @@
   {
     "listing": "/people.html",
     "items": [
-      "/people/cohort_2024.html"
+      "/people/cohort_2024.html",
+      "/people/staff.html",
+      "/people/supervisors.html"
     ]
   },
   {
     "listing": "/cohort_2024.html",
     "items": [
-      "/cohort_2024_students/student_1.html",
+      "/cohort_2024_students/student_2.html",
       "/cohort_2024_students/student_3.html",
-      "/cohort_2024_students/student_2.html"
+      "/cohort_2024_students/student_1.html"
     ]
   }
 ]
