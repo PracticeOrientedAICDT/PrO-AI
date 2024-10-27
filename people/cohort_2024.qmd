@@ -10,4 +10,3 @@ title: Cohort 2024
 - [James Brock](https://jamesbrockuob.github.io/personal_page/)
 - [Jono Vincent](https://jonovincent-proai.github.io/personal_page/)
 - [Moses Guran](https://moiseguran13.github.io/personal_page/)
-- [Tim Broadhurst]()
