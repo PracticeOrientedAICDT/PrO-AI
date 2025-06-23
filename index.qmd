@@ -2,7 +2,7 @@
 title: "Practice-Oriented Artificial Intelligence"
 ---
 
-> Our mission is to train the next generations of AI innovators, equipping them with the expertise and skills to co-design and build practice-oriented AI systems for science and research domains of key national importance. Our innovative, cohort-based training programme will deliver highly-trained PhD graduates with the transferable skills to deliver impact while solving societally important problems in responsible ways.
+Our mission is to train the next generations of AI innovators, equipping them with the expertise and skills to co-design and build practice-oriented AI systems for science and research domains of key national importance. Our innovative, cohort-based training programme will deliver highly-trained PhD graduates with the transferable skills to deliver impact while solving societally important problems in responsible ways.
 
 Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains. PrO-AI research will fundamentally advance the state of the art in methodologies for building AI systems, similar to the way software engineering developed sophisticated methodologies for programmers to work in a problem-driven way. This will result in AI systems that are demonstrably finely attuned to the problem they solve, and hence more usable, quicker to develop, and easier to maintain. As such, beneficiaries include everyone working with AI systems, be they users, developers, managers, decision makers, etc. 
 

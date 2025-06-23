@@ -1,0 +1,6 @@
+---
+title: "Previous Issues"
+listing:
+  contents: newsletter_issues
+  type: default
+---

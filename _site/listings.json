@@ -6,5 +6,19 @@
       "/cohort_2024_students/student_3.html",
       "/cohort_2024_students/student_1.html"
     ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/cohort_2024.html",
+      "/people/staff.html",
+      "/people/supervisors.html"
+    ]
+  },
+  {
+    "listing": "/previous_issues.html",
+    "items": [
+      "/newsletter_issues/cdt_weekly_newsletter-01-05-2025.html"
+    ]
   }
 ]
