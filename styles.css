@@ -1,1 +1,81 @@
-/* css styles */
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #222;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+
+h1, h2, h3, h4, h5 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  color: #990000; /* Bristol dark red accent */
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.sidebar-item-text.sidebar-link {            
+  text-decoration: none;  
+}
+
+.sidebar-item-text.sidebar-link.active {
+  color: #990000;         
+}
+
+.sidebar-item-text.sidebar-link:hover {
+  text-decoration: underline;
+  color: none;       
+}
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+
+.navbar {
+  background-color: #f7f7f7;
+  border-bottom: 1px solid #ddd;
+  padding: 0.75rem 1rem;
+}
+
+button, .btn {
+  background-color: #990000;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+}
+button:hover, .btn:hover {
+  background-color: #7a0000;
+}
+
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+footer {
+  background-color: #f7f7f7;
+  padding: 2rem 1rem;
+  font-size: 0.875rem;
+  color: #555;
+  border-top: 1px solid #ddd;
+}
+
