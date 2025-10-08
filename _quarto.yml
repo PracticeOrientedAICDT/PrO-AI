@@ -6,6 +6,7 @@ website:
   sidebar:
     collapse-level: 2
     style: "docked"
+    logo: "pro-ai-logo.gif"
     contents:
       - section: "Home"
         contents:
