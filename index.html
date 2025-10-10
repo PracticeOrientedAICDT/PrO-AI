@@ -301,6 +301,51 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<div id="meuCarrossel" class="carousel-auto">
+<p><img src="slider1.jpg" alt="Imagem 1"> <img src="slider2.jpg" alt="Imagem 2"> <img src="slider3.jpg" alt="Imagem 3"></p>
+</div>
+<style>
+.carousel-auto {
+  position: relative;
+  width: 100%;
+  max-width: 800px;   
+  height: 400px;     
+  overflow: hidden;
+  border-radius: 10px;
+  margin: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+.carousel-auto img {
+  width: 100%;
+  height: 100%;            
+  object-fit: cover;       
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  border-radius: 10px;
+}
+.carousel-auto img.active {
+  opacity: 1;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  let idx = 0;
+  const imgs = document.querySelectorAll('.carousel-auto img');
+  if (imgs.length === 0) return;
+
+  imgs[0].classList.add('active');
+  
+  setInterval(() => {
+    imgs[idx].classList.remove('active');
+    idx = (idx + 1) % imgs.length;
+    imgs[idx].classList.add('active');
+  }, 3000);
+});
+</script>
 <p>Our mission is to train the next generations of AI innovators, equipping them with the expertise and skills to co-design and build practice-oriented AI systems for science and research domains of key national importance. Our innovative, cohort-based training programme will deliver highly-trained PhD graduates with the transferable skills to deliver impact while solving societally important problems in responsible ways.</p>
 <p>Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains. PrO-AI research will fundamentally advance the state of the art in methodologies for building AI systems, similar to the way software engineering developed sophisticated methodologies for programmers to work in a problem-driven way. This will result in AI systems that are demonstrably finely attuned to the problem they solve, and hence more usable, quicker to develop, and easier to maintain. As such, beneficiaries include everyone working with AI systems, be they users, developers, managers, decision makers, etc.</p>
 <p>While the current, media-driven narrative focuses on the disruptive nature of selected AI technologies, research organisations working towards incorporating AI methods strongly prefer to do so in a way that maximally respects their well-established practices. The key AI challenges of tomorrow are posed by the need for a deeper cooperation and alignment between AI systems, AI practitioners, and domain experts, the latter being the source of both relevant case-specific knowledge and requirements with regards to functionality, robustness, transparency, accountability and fairness for a given application. In other words, we need AI experts with the ability to act as a bridge between domain experts and AI technology. But rather than delivering ‘AI for x’ experts for a fixed domain x – which might quickly lose its importance or utility – the PrO-AI doctoral training programme will deliver experts with the flexibility to adapt to new domains during the course of their career.</p>
