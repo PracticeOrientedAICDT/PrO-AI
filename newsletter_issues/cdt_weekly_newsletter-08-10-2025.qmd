@@ -1,0 +1,11 @@
+---
+execute:
+  echo: false
+format:
+  html:
+    df-print: paged
+    toc: true
+title: Newsletter Issue - 08-10-2025
+
+---
+<h2>CDT Weekly Newsletter</h2><br><ul><li>Bristol Doctoral College (BDC) Events Calendar - Thesis Boot Camp</li><li>Workshop: How to Navigate the Middle Years of your Research Degree, online or in-person (hybrid session)</li></ul><p><p>Welcome to this week's issue of the newsletter.</p></p><br><br><b>Bristol Doctoral College (BDC) Events Calendar - Thesis Boot Camp</b><br><p class="x_MsoNormal" style="line-height: 115%;"><span lang="EN-US" style="color: black !important;" data-olk-copy-source="MessageBody">An intensive writing retreat that helps late-stage PGRs overcome writer's block and make significant progress on the first draft of their thesis. <strong>Applications close on Sunday 13 April.</strong></span></p><br><br><b>Workshop: How to Navigate the Middle Years of your Research Degree, online or in-person (hybrid session)</b><br><p><span style="color: rgb(32, 32, 32);" data-olk-copy-source="MessageBody">This workshop will help you navigate the &lsquo;messy&rsquo; middle years of your research degree and provide strategies for juggling multiple strands of work. You will learn practical tips for organising your research, establishing goals and expectations, and applying project management strategies to your research.</span></p><br><br><h2>Forthcoming Calendar of Events</h2><br><br>
