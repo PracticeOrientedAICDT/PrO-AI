@@ -1,23 +1,5 @@
 [
   {
-    "objectID": "why_study_with_us.html",
-    "href": "why_study_with_us.html",
-    "title": "Why Study With Us",
-    "section": "",
-    "text": "Bristol is a fantastic place to live with a lively AI, machine learning and data science community. In addition to being part of a world-leading research and training environment, Interactive AI students will benefit from a wide range of extra training opportunities, events and support structures:\n\nStudents have access to a wide range of research seminars, reading groups and other events on relevant topics at Bristol, including an IAI Spring Research Conference, IAI Summer School and an Interactive AI seminar series.\nA programming trainer will be available to provide advanced training and support to students in using the university’s high-performance computing and data storage systems.\nBristol is a full partner of the Alan Turing Institute, the national research institute for Data Science and AI, which will provide access to further training and CDT-related activities.\nThe students will have the option to complete an internship or research visit to a national/international academic partner or industrial lab for one to three months. Leading universities (e.g. KU Leuven, UCL, Leiden, Nottingham, UP Valencia, Gent, Aalto, LMU Munich) and companies (e.g. Amazon, Microsoft, Thales) have agreed to host CDT students.\nProfessional and personal development opportunities include courses on entrepreneurial skills and public engagement training.\nAccess to other training elements from the wider AI and domain-specific courses that the University offers."
-  },
-  {
-    "objectID": "previous_issues.html",
-    "href": "previous_issues.html",
-    "title": "Previous Issues",
-    "section": "",
-    "text": "Newsletter Issue - 08-10-2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue - 17-10-2025\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Newsletter",
-      "Previous Issues"
-    ]
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -36,22 +18,48 @@
     ]
   },
   {
-    "objectID": "people/cohort_2024.html",
-    "href": "people/cohort_2024.html",
-    "title": "Cohort 2024",
+    "objectID": "people/cohort_2025.html",
+    "href": "people/cohort_2025.html",
+    "title": "Cohort 2025",
     "section": "",
-    "text": "Berenika Ewart-James\nBezawit Tilaye\nDavid Fox\nJack Woodcock\nJake Chastney\nJames Brock\nJono Vincent\nMoses Guran",
+    "text": "Tom Heslin\nAbby Morris\nIke Ofodile\nSanjukta Bhattacharya\nPriya Kharbanda\nRussell Summers\nIsobel Higgins\nGuoda Laurinaviciute\nEd Daniels\nNoah Barker\nNyamvula Chakaya\nGonzalo Cancio-Donlebun",
     "crumbs": [
       "People",
-      "Cohort 2024"
+      "Cohort 2025"
     ]
   },
   {
-    "objectID": "open_research_projects.html",
-    "href": "open_research_projects.html",
-    "title": "Open Research Projects",
+    "objectID": "phd_projects.html",
+    "href": "phd_projects.html",
+    "title": "PhD Projects",
     "section": "",
-    "text": "(TO BE UPDATED)\nHere is a list of research projects in Interactive AI that we are currently recruiting to. We are asking applicants to base their research statement on one of these. Further projects may become available in due course and will be added here.\n\nDigital waste in Interactive AI\nDigital waste is defined as the use of digital infrastructure for services that are not or only partly enjoyed by the user. Design techniques that can reduce demand on infrastructure will thus contribute to the reduction of environmental impact. As Interactive AI applications embed the human in an interaction loop with a digital device, it is particularly relevant to consider digital waste. Working with Dr Daniel Schien, you will investigate digital waste from two complementary angles: reducing digital waste in Interactive AI applications; and applying Interactive AI to reduce digital waste in ICT services in general.\n\n\nInteractive AI for dealing with bias in language\nNatural language processing (NLP) is finding new uses in a wide range of applications, such as recruitment, healthcare, policing, advertising and social media monitoring. NLP models can learn and may even amplify social biases and stereotypes, resulting in automated systems making unfair decisions against certain groups of people. To address the problem, new analysis tools are required that let domain experts probe models for different forms of bias and evaluate and adjust techniques like adversarial debiasing. Working with Dr Edwin Simpson, you will develop novel techniques and create interactive tools for analysing and correcting such biases.\n\n\nInteractive AI to help understand Parkinson’s disease\nThe availability of real-time information through the increasing capabilities of sensing devices has led to the emergence of research into Activity Recognition. Investigating the activities and sleep patterns of patients with a condition such as Parkinson’s Disease can help to understand the progression of the disease and the effect of medications. Working with Dr Zahraa Abdallah, you will develop novel Interactive AI techniques for analysing accelerometer data collected by wrist-worn sensors, examine episodes of sleep and identify distinguishing features, unusual patterns, and sleep quality measures.\n\n\nProsociality as a foundation for ethics and fairness in Interactive AI\nCurrent research on ethics and fairness in Interactive AI focuses on a single agent, often associated with an entity such as a mortgage lender or a judge. It is often more appropriate to model ethics and fairness as a social concern between prosocial agents. Working with Dr Nirav Ajmeri, you will uncover the principles of prosociality on which AI agents can interact with each other and with humans to realize fair outcomes for the humans involved. Such agents would (autonomously) behave prosocially and (collaboratively) strengthen prosociality among human actors by facilitating their awareness of each other’s needs and preferences.\n\n\nInteractive modelling of language\nWithin the field of computational linguistics there are different ways to model language: corpus based approaches which generate meaning from large bodies of text; the evolutionary linguistic approach which derives meaning from interaction with the outside world and with other agents; and the vector-symbolic approach which can be implemented in more biologically plausible artificial neural networks. Working with Dr Martha Lewis, you will unify these three approaches to propose a model of language that is compositional, interactive, and has a neural implementation, opening up the framework to teaching through interaction with a human."
+    "text": "TBA",
+    "crumbs": [
+      "Programme details",
+      "PhD Projects"
+    ]
+  },
+  {
+    "objectID": "equality_diversity_and_inclusion.html",
+    "href": "equality_diversity_and_inclusion.html",
+    "title": "Equality, Diversity and Inclusion",
+    "section": "",
+    "text": "The Equality, Diversity and Inclusion (EDI) strategy of the PrO-AI CDT aims to ensure an equitable, diverse and inclusive environment for all involved with the CDT, including students, recruitment candidates, academics, centre management, industry partners, and research participants. We intend the CDT to be an active driver of EDI practices, proactively going beyond University policy and statutory compliance. This is not just because it is a moral and ethical approach: our central goal is to train a generation of PhD graduates able to understand heterogeneous practices and settings in order to design AI solutions that are sensitive to that heterogeneity. Bringing together people with diverse backgrounds and ideas is crucial for achieving this goal. In recognising our differences, we aim to provide an equitable platform for all, with a number of actions to support a diverse and inclusive CDT community.",
+    "crumbs": [
+      "Home",
+      "Equality, Diversity and Inclusion"
+    ]
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "Funding",
+    "section": "",
+    "text": "Each year we offer ~10 fully-funded, 4 year UKRI studentships (details TBA).\nThese studentships are governed by UKRI/EPSRC student eligibility rules and applicants should check whether they will be eligible. We are able to offer 1-2 studentships each year to non-UK students (with international tuition fees being waived)\nApplications received from self-funded/sponsored international and EU students are welcome and will be considered.\nInformation about additional funding sources can be found on the University’s fees and funding pages, the University’s International Scholarships webpage and the Faculty of Engineering postgraduate funding webpage.",
+    "crumbs": [
+      "Apply",
+      "Funding"
+    ]
   },
   {
     "objectID": "newsletter_issues/cdt_weekly_newsletter-08-10-2025.html",
@@ -61,36 +69,22 @@
     "text": "CDT Weekly Newsletter\n\n\n\n\nBristol Doctoral College (BDC) Events Calendar - Thesis Boot Camp\n\n\nWorkshop: How to Navigate the Middle Years of your Research Degree, online or in-person (hybrid session)\n\n\n\n\nWelcome to this week’s issue of the newsletter.\n\n\nBristol Doctoral College (BDC) Events Calendar - Thesis Boot Camp\n\nAn intensive writing retreat that helps late-stage PGRs overcome writer’s block and make significant progress on the first draft of their thesis. Applications close on Sunday 13 April.\n\nWorkshop: How to Navigate the Middle Years of your Research Degree, online or in-person (hybrid session)\n\nThis workshop will help you navigate the ‘messy’ middle years of your research degree and provide strategies for juggling multiple strands of work. You will learn practical tips for organising your research, establishing goals and expectations, and applying project management strategies to your research.\n\n\n\nForthcoming Calendar of Events"
   },
   {
-    "objectID": "more_information.html",
-    "href": "more_information.html",
-    "title": "More Information",
+    "objectID": "newsletter_issues/cdt_weekly_newsletter-11-12-2025.html",
+    "href": "newsletter_issues/cdt_weekly_newsletter-11-12-2025.html",
+    "title": "Newsletter Issue - 11-12-2025",
     "section": "",
-    "text": "For more information click here",
+    "text": "CDT Weekly Newsletter\n\n\n\n\nAnnouncement 16\n\n\n\nWelcome to this week’s issue of the newsletter.\n\nAnnouncement 16announcement 16\n\nForthcoming Calendar of Events"
+  },
+  {
+    "objectID": "why_study_with_us.html",
+    "href": "why_study_with_us.html",
+    "title": "Why Study With Us",
+    "section": "",
+    "text": "Bristol is a fantastic place to live with a lively AI, machine learning and data science community. In addition to being part of a world-leading research and training environment, Interactive AI students will benefit from a wide range of extra training opportunities, events and support structures:\n\nStudents have access to a wide range of research seminars, reading groups and other events on relevant topics at Bristol, including an IAI Spring Research Conference, IAI Summer School and an Interactive AI seminar series.\nA programming trainer will be available to provide advanced training and support to students in using the university’s high-performance computing and data storage systems.\nBristol is a full partner of the Alan Turing Institute, the national research institute for Data Science and AI, which will provide access to further training and CDT-related activities.\nThe students will have the option to complete an internship or research visit to a national/international academic partner or industrial lab for one to three months. Leading universities (e.g. KU Leuven, UCL, Leiden, Nottingham, UP Valencia, Gent, Aalto, LMU Munich) and companies (e.g. Amazon, Microsoft, Thales) have agreed to host CDT students.\nProfessional and personal development opportunities include courses on entrepreneurial skills and public engagement training.\nAccess to other training elements from the wider AI and domain-specific courses that the University offers.",
     "crumbs": [
-      "More information",
-      "More Information"
+      "Apply",
+      "Why Study With Us"
     ]
-  },
-  {
-    "objectID": "how_to_apply.html",
-    "href": "how_to_apply.html",
-    "title": "How to Apply",
-    "section": "",
-    "text": "Applicants must hold/achieve a minimum of an upper-second class honours degree (or international equivalent) in a relevant discipline. The Interactive Artificial Intelligence CDT is primarily aimed at students with a first degree in engineering or science and with strong programming skills, but will also consider applicants with suitable skills acquired in employment.\nOnline applications are expected to be opened in early 2024 for a September 2024 start."
-  },
-  {
-    "objectID": "foundation_year.html",
-    "href": "foundation_year.html",
-    "title": "Foundation Year",
-    "section": "",
-    "text": "In close conversation with our industry partners, we identified Practice-Oriented Artificial Intelligence (PrO-AI) as a core sub-discipline of AI where the need for and deficit in skills is abundantly evident, while being homogeneous enough to have intellectual integrity and be explored and researched within the context of a single CDT. The most important aspects of the bespoke training programme are:\n\nPractice projects will be run in close collaboration with CDT partners (academic and industry) and across CDT cohorts to offer ‘deep dives’ into a research domain. Students will liaise with domain experts to get an understanding of their expertise, expectations and success criteria. Exploring different domains will allow the students to acquire the transferable skills that will be key when moving between domains in their future careers.\nThe Foundations of Practice-Oriented AI module is run in a student-led, ‘flipped classroom’ manner and covers the main topics in data-driven AI, knowledge-intensive AI and human-AI interaction; human-centred and participatory methodologies to bring those AI techniques into practice; and the legal and ethical context that will help students to do so responsibly and in a manner beneficial to society.\nAcademic mentors attend the sessions to gauge their mentee’s knowledge and identify areas where further study will be beneficial as part of the Research Orientation module, which completes a student’s foundational training in an individual-centred manner and guides them on the way to choosing a research topic for the Summer Project and subsequent PhD research.\nThroughout their programme the students participate in and build an online portfolio of transferable skills training inspired by the Vitae Researcher Development Framework. This includes training in responsible innovation, entrepreneurship, hosting visitors, organising events, public engagement, citizen science, etc. A ‘serious game’ approach will encourage students to build their Researcher Development portfolio, unlocking additional research and training support resources when they reach certain milestones."
-  },
-  {
-    "objectID": "equality_diversity_and_inclusion.html",
-    "href": "equality_diversity_and_inclusion.html",
-    "title": "Equality, Diversity and Inclusion",
-    "section": "",
-    "text": "The Equality, Diversity and Inclusion (EDI) strategy of the PrO-AI CDT aims to ensure an equitable, diverse and inclusive environment for all involved with the CDT, including students, recruitment candidates, academics, centre management, industry partners, and research participants. We intend the CDT to be an active driver of EDI practices, proactively going beyond University policy and statutory compliance. This is not just because it is a moral and ethical approach: our central goal is to train a generation of PhD graduates able to understand heterogeneous practices and settings in order to design AI solutions that are sensitive to that heterogeneity. Bringing together people with diverse backgrounds and ideas is crucial for achieving this goal. In recognising our differences, we aim to provide an equitable platform for all, with a number of actions to support a diverse and inclusive CDT community."
   },
   {
     "objectID": "cohort_2024_students/student_3.html",
@@ -100,36 +94,95 @@
     "text": "Information about student 3"
   },
   {
-    "objectID": "cohort_2024_students/student_1.html",
-    "href": "cohort_2024_students/student_1.html",
-    "title": "Student 1",
+    "objectID": "summer_projects.html",
+    "href": "summer_projects.html",
+    "title": "Summer Projects",
     "section": "",
-    "text": "Information about student 1"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "The new CDT doesn’t yet have a blog, but in the meantime you can have a look at the Interactive AI CDT blog.\nThe IAI CDT uploads posts to its blog regularly, showcasing our latest research, events, and news.\nBlog",
+    "text": "TBA",
     "crumbs": [
-      "Home",
-      "Blog"
+      "Programme details",
+      "Summer Projects"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About the PrO-AI CDT",
+    "objectID": "foundation_year.html",
+    "href": "foundation_year.html",
+    "title": "Foundation Year",
     "section": "",
-    "text": "The UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence (PrO-AI) will deliver the next generation of innovators producing state-of-the-art AI solutions in existing and future domains that will transform UK science, economy and society. Founded on our extensive experience in doctoral training for designing and building complex human-centred AI pipelines, and developed in collaboration with a broad range of industry partners, the PrO-AI CDT will equip researchers with essential skills in co-designing and building practice-oriented AI applications across science and research domains of national importance. The specific objectives are:\n\nto recruit highly motivated postgraduate students from computer science, mathematics, and cognate disciplines following best practices in equality, diversity and inclusion, and create an immersive training experience which introduces and reinforces the principles needed to successfully design effective and trustworthy AI solutions across sicence and research domains, delivered within a distinctive cohort training environment;\nto train and deliver PhD graduates able to critically recognise the potential for AI solutions in a particular domain, work with domain experts to elicit requirements and articulate what AI capabilities are needed, translate the requirements into system specifications taking into account legal and ethical considerations, implement a prototype AI system, and deploy the AI system in production and continuously assess its performance in solving the originally stated problem;\nto promote a human-in-the-loop ethos that emphasises technology co-design for and with humans, with PhD students mastering the techniques for eliciting requirements from domain experts, overcoming existing barriers for the adoption of AI in key fields such as health, environment and energy, and creative industries – and develop world-class research in these areas;\nto set the highest standards for our PhD students of responsible innovation with particular emphasis on AI-specific issues when co-designing AI solutions with domain experts, such as transparency, explainability, accountability, fairness, trustworthiness and privacy, and establishing clear guidelines for the sustainable use of data, software and compute, leading to net zero;\nto train “AI ambassadors” who, through their deep understanding of the strengths and limitations of artificial intelligence in different areas, can contribute to and lead the public debate on AI and its relationship to society;\nto support the development of entrepreneurial skills and intellectual property, as our graduates will be able to seamlessly work across domains, establishing and contributing to AI teams in different fields;\nto be an exemplar for technology-supported cohort-based training, using the latest developments and insights in flipped-classroom teaching and teamwork, open software development tools and platforms with input from our industry partners, and cross-cohort mentoring;\nto build long-term relationships between the CDT and its industrial partners, government and regulators, enhancing the cohort provision through placements, co-supervised projects and research collaborations;\nto contribute to the “democratisation of AI” and reduce inequality within the sector by promoting take-up of relevant AI techniques in SMEs across sectors;\nto consolidate and expand existing expertise at Bristol as a leading international research training centre with relationships with global partners, building a community that will have access to expertise, and can engage and interact with the CDT through a programme of regular events, including workshops, summer schools and networking activities."
+    "text": "In close conversation with our industry partners, we identified Practice-Oriented Artificial Intelligence (PrO-AI) as a core sub-discipline of AI where the need for and deficit in skills is abundantly evident, while being homogeneous enough to have intellectual integrity and be explored and researched within the context of a single CDT. The most important aspects of the bespoke training programme are:\n\nPractice projects will be run in close collaboration with CDT partners (academic and industry) and across CDT cohorts to offer ‘deep dives’ into a research domain. Students will liaise with domain experts to get an understanding of their expertise, expectations and success criteria. Exploring different domains will allow the students to acquire the transferable skills that will be key when moving between domains in their future careers.\nThe Foundations of Practice-Oriented AI module is run in a student-led, ‘flipped classroom’ manner and covers the main topics in data-driven AI, knowledge-intensive AI and human-AI interaction; human-centred and participatory methodologies to bring those AI techniques into practice; and the legal and ethical context that will help students to do so responsibly and in a manner beneficial to society.\nAcademic mentors attend the sessions to gauge their mentee’s knowledge and identify areas where further study will be beneficial as part of the Research Orientation module, which completes a student’s foundational training in an individual-centred manner and guides them on the way to choosing a research topic for the Summer Project and subsequent PhD research.\nThroughout their programme the students participate in and build an online portfolio of transferable skills training inspired by the Vitae Researcher Development Framework. This includes training in responsible innovation, entrepreneurship, hosting visitors, organising events, public engagement, citizen science, etc. A ‘serious game’ approach will encourage students to build their Researcher Development portfolio, unlocking additional research and training support resources when they reach certain milestones.",
+    "crumbs": [
+      "Programme details",
+      "Foundation Year"
+    ]
+  },
+  {
+    "objectID": "previous_issues.html",
+    "href": "previous_issues.html",
+    "title": "Previous Issues",
+    "section": "",
+    "text": "Newsletter Issue - 08-10-2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue - 11-12-2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue - 17-10-2025\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Newsletter",
+      "Previous Issues"
+    ]
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "See https://www.bristol.ac.uk/cdt/interactive-ai/events/.",
+    "crumbs": [
+      "Home",
+      "Events"
+    ]
+  },
+  {
+    "objectID": "how_to_apply.html",
+    "href": "how_to_apply.html",
+    "title": "How to Apply",
+    "section": "",
+    "text": "Applicants must hold/achieve a minimum of an upper-second class honours degree (or international equivalent) in a relevant discipline. The Interactive Artificial Intelligence CDT is primarily aimed at students with a first degree in engineering or science and with strong programming skills, but will also consider applicants with suitable skills acquired in employment.\nOnline applications are expected to be opened in early 2024 for a September 2024 start.",
+    "crumbs": [
+      "Apply",
+      "How to Apply"
+    ]
   },
   {
     "objectID": "cohort_2024.html",
     "href": "cohort_2024.html",
     "title": "Cohort 2024",
     "section": "",
-    "text": "TBA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudent 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudent 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudent 3\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "TBA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudent 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudent 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudent 2\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "newsletter.html",
+    "href": "newsletter.html",
+    "title": "Newsletter Issue - 11-12-2025",
+    "section": "",
+    "text": "CDT Weekly Newsletter\n\n\n\n\nAnnouncement 16\n\n\n\nWelcome to this week’s issue of the newsletter.\n\nAnnouncement 16announcement 16\n\nForthcoming Calendar of Events",
+    "crumbs": [
+      "Newsletter",
+      "Newsletter Issue - 11-12-2025"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Practice-Oriented Artificial Intelligence",
+    "section": "",
+    "text": "Our mission is to train the next generations of AI innovators, equipping them with the expertise and skills to co-design and build practice-oriented AI systems for science and research domains of key national importance. Our innovative, cohort-based training programme will deliver highly-trained PhD graduates with the transferable skills to deliver impact while solving societally important problems in responsible ways.\nPractice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains. PrO-AI research will fundamentally advance the state of the art in methodologies for building AI systems, similar to the way software engineering developed sophisticated methodologies for programmers to work in a problem-driven way. This will result in AI systems that are demonstrably finely attuned to the problem they solve, and hence more usable, quicker to develop, and easier to maintain. As such, beneficiaries include everyone working with AI systems, be they users, developers, managers, decision makers, etc.\nWhile the current, media-driven narrative focuses on the disruptive nature of selected AI technologies, research organisations working towards incorporating AI methods strongly prefer to do so in a way that maximally respects their well-established practices. The key AI challenges of tomorrow are posed by the need for a deeper cooperation and alignment between AI systems, AI practitioners, and domain experts, the latter being the source of both relevant case-specific knowledge and requirements with regards to functionality, robustness, transparency, accountability and fairness for a given application. In other words, we need AI experts with the ability to act as a bridge between domain experts and AI technology. But rather than delivering ‘AI for x’ experts for a fixed domain x – which might quickly lose its importance or utility – the PrO-AI doctoral training programme will deliver experts with the flexibility to adapt to new domains during the course of their career.\nThe PrO-AI CDT pulls together the University of Bristol’s proven track record in doctoral AI training and its unique and comprehensive strengths in AI applied to a range of science and research areas including health, environment and energy, and creative industries, to deliver highly-trained AI innovators with the transferable skills to deliver societal impact across domains.",
+    "crumbs": [
+      "Home",
+      "Practice-Oriented Artificial Intelligence"
+    ]
+  },
+  {
+    "objectID": "cohort_2024_students/student_1.html",
+    "href": "cohort_2024_students/student_1.html",
+    "title": "Student 1",
+    "section": "",
+    "text": "Information about student 1"
   },
   {
     "objectID": "cohort_2024_students/student_2.html",
@@ -150,51 +203,62 @@
     ]
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "See https://www.bristol.ac.uk/cdt/interactive-ai/events/.",
-    "crumbs": [
-      "Home",
-      "Events"
-    ]
-  },
-  {
-    "objectID": "funding.html",
-    "href": "funding.html",
-    "title": "Funding",
-    "section": "",
-    "text": "Each year we offer ~10 fully-funded, 4 year UKRI studentships (details TBA).\nThese studentships are governed by UKRI/EPSRC student eligibility rules and applicants should check whether they will be eligible. We are able to offer 1-2 studentships each year to non-UK students (with international tuition fees being waived)\nApplications received from self-funded/sponsored international and EU students are welcome and will be considered.\nInformation about additional funding sources can be found on the University’s fees and funding pages, the University’s International Scholarships webpage and the Faculty of Engineering postgraduate funding webpage."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Practice-Oriented Artificial Intelligence",
-    "section": "",
-    "text": "Our mission is to train the next generations of AI innovators, equipping them with the expertise and skills to co-design and build practice-oriented AI systems for science and research domains of key national importance. Our innovative, cohort-based training programme will deliver highly-trained PhD graduates with the transferable skills to deliver impact while solving societally important problems in responsible ways.\nPractice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains. PrO-AI research will fundamentally advance the state of the art in methodologies for building AI systems, similar to the way software engineering developed sophisticated methodologies for programmers to work in a problem-driven way. This will result in AI systems that are demonstrably finely attuned to the problem they solve, and hence more usable, quicker to develop, and easier to maintain. As such, beneficiaries include everyone working with AI systems, be they users, developers, managers, decision makers, etc.\nWhile the current, media-driven narrative focuses on the disruptive nature of selected AI technologies, research organisations working towards incorporating AI methods strongly prefer to do so in a way that maximally respects their well-established practices. The key AI challenges of tomorrow are posed by the need for a deeper cooperation and alignment between AI systems, AI practitioners, and domain experts, the latter being the source of both relevant case-specific knowledge and requirements with regards to functionality, robustness, transparency, accountability and fairness for a given application. In other words, we need AI experts with the ability to act as a bridge between domain experts and AI technology. But rather than delivering ‘AI for x’ experts for a fixed domain x – which might quickly lose its importance or utility – the PrO-AI doctoral training programme will deliver experts with the flexibility to adapt to new domains during the course of their career.\nThe PrO-AI CDT pulls together the University of Bristol’s proven track record in doctoral AI training and its unique and comprehensive strengths in AI applied to a range of science and research areas including health, environment and energy, and creative industries, to deliver highly-trained AI innovators with the transferable skills to deliver societal impact across domains.",
-    "crumbs": [
-      "Home",
-      "Practice-Oriented Artificial Intelligence"
-    ]
-  },
-  {
-    "objectID": "newsletter.html",
-    "href": "newsletter.html",
-    "title": "Newsletter Issue - 17-10-2025",
-    "section": "",
-    "text": "CDT Weekly Newsletter\n\n\n\n\nMessage from the Director\n\n\nAI Lunch and Learn Seminars\n\n\nConception X 2026 – applications are now open\n\n\nDigital Health Seminar Series\n\n\nTuring Seminar Series\n\n\nBristol Doctoral College (BDC) Events and Opportunities\n\n\nReference management: EndNote Online – organiser: Library - Subject Support\n\n\nAround Bristol\n\n\n\n\nWelcome to this week’s issue of the newsletter.\n\n\nMessage from the Director\n\n\n\nI am sure many of you have seen bad examples of using generative AI in research, paper reviewing, paper writing etc. I am equally sure that many of you have found ways to use GenAI in productive ways while steering clear of the edges of scientific propriety. If this is you then I want to hear from you. I am planning to organise an end-of-year CDT workshop on the use of GenAI in academic research: the good, the bad and the ugly. Please get in touch if you have ideas about possible discussion topics and sessions. \n\n\n\nAI Lunch and Learn Seminars\n\n\n\n\n\n\nWei-Hong Li: Universal AI: Toward Balanced, Efficient, and 3D-Aware Learning \n\n\n\n\n\n\nDate: 22 October, pizza from 13:30 – 14:00 followed by the talk from 14:00 – 15:00 \n\n\n\n\nLocation: Room 1.07, Queen’s Building \n\n\n\n\nAbstract: Modern AI systems achieve remarkable performance on specialized tasks, yet they often struggle to generalize across domains, modalities, and supervision levels. Bridging these divides between tasks, data sources, and 2D/3D understanding is essential for building universal and fair intelligence that can adapt flexibly to real-world scenarios. Such capabilities would unlock broad applications spanning autonomous perception, multimodal generation, embodied AI, and scientific discovery.  \n\n\n\n\nIn this talk, I will present our recent efforts toward Universal AI, a research direction that aims to learn balanced, data-efficient, and geometrically grounded representations. I will first introduce methods for learn balanced and transferable representations through a single network that generalize to diverse tasks, domains, and in cross-domain few-shot scenarios and diffusion models. I will then discuss approaches for learning from partially annotated data, enabling effective supervision sharing across dense prediction tasks. Finally, I will highlight our latest work on 3D-aware understanding and compositional generation, where geometric priors and language guidance empower models to reason about space, structure, and semantics in a unified framework.  \n\n\n\n\n\n\nBio: Wei-Hong Li is an Assistant Professor in the School of Computer Science at the University of Bristol, and a faculty member of the MaVi group. He is also a member of ELLIS. He received his PhD from the University of Edinburgh, advised by Hakan Bilen and Timothy Hospedales, and subsequently worked as a postdoctoral researcher there. He was also a postdoctoral fellow at the MultiMedia Lab (MMLab) at the Chinese University of Hong Kong, working with Xiangyu Yue. His research focuses on universal representation learning, learning from limited supervision, and 3D-aware visual understanding. His work received several awards including Best Paper Award Finalist at CVPR 2022, BMVA Sullivan Doctoral Thesis Prize (Runner-Up), Best Paper Award at ICIG2017. \n\n\n\n\n \n\n\n\n\n\n\nUpcoming seminars for this term (save the dates): \n\n\n\n\n\n\n19 Nov 2025, Kostas Sechidis (Novartis) \n\n\n\n\n26 Nov 2025, Xiyue Zhang (School of Computer Science, University of Bristol) \n\n\n\n\n10 Dec 2025, Michael Rule (School of Engineering Mathematics and Technology, University of Bristol) \n\n\n\n\nTitles and abstracts to follow.   \n\n\n\n\nConception X 2026 – applications are now open\n\n\n\nConception X is hosting an online Discovery Session on 30 October for PhD students, postdocs and early-career researchers interested in commercialising their research. \n\n\n\n\nInterested students can join a Discovery Session to learn more, or can apply via the Conception X website when ready. Deadline: 16 December 2025. \n\n\n\n\n \n\n\n\nDigital Health Seminar Series\n\n\n\n\n\n\nDarren Scott: Making the House a Home for Habits: Components and Characteristics for Home-Based Exercise Snacking \n\n\n\n\n\n\nLocation: In Person AIMS Seminar Room 1 (University of Bristol only) & Online (Link coming shortly) Date: 28 October 2025 14:00-15:00  \n\n\n\n\nAbstract: There is a societal crisis taking place around the limited exercise we fit into our daily lives. A potential solution to this is exercise snacking, the concept of fitting much smaller exercises into much smaller windows, typically within the home in flow of other duties. There is currently limited technical exploration of how to integrate these exercises, which we sought to resolve through a six-workshop series. The first three workshops looked at how to design for different groups and environments, and how these considerations may manifest in both new and evolving designs. The latter three workshops looked at low-fidelity prototypes, gaining some insights into preferred modalities as well as how they may work alongside necessary considerations such as existing routines and co-habitants. \n\n\n\n\nTuring Seminar Series\n\n\n\n\n\n\nPeter Tennant: Have DAGs fulfilled their promise in epidemiology and health research?  \n\n\n\n\n\n\nDate: 22 October 13:00 – 14:00 \n\n\n\n\nLocation: Queens Building, 1.18LT \n\n\n\n\n\n\nAbstract: Causal directed acyclic graphs (DAGs) are among the most widely used causal diagrams. Developed in the 1980s and 1990s, with intellectual roots extending back to the 1920s, DAGs have become a core part of the modern data scientist’s toolkit for planning and interpreting causal analyses of observational data. Advocates argue that DAGs improve the quality of causal research by increasing transparency and clarifying common analytical pitfalls. Critics, however, question whether these benefits have truly materialized, pointing to a persistent gap between theoretical promise and real-world practice. \n\n\n\n\nAt the 2024 World Congress of Epidemiology, Dr Peter Tennant (University of Leeds) and Prof Margarita Moreno Betancur (University of Melbourne) took part in a debate on whether DAGs have fulfilled their promise in epidemiology. In this talk, Dr Tennant will revisit the key arguments from that debate and share further reflections on how DAGs can be used more effectively in epidemiology and health research. \n\n\n\n\n \n\n\n\n\n\n\nGiovanni Petri: Tracing the Cultural Fabric of Sperm Whale Societies  \n\n\n\n\n\n\nDate: 5 November 13:00 – 14:00 \n\n\n\n\nLocation: Biomedical Building, C42 \n\n\n\n\nAbstract: \n\n\n\n\nSperm whales live in highly structured societies where communication and cooperation intertwine in complex ways.  In this talk, I will explore how these two social dimensions —vocal culture and collective behaviour— interact within sperm whale societies.  By combining large-scale acoustic datasets from the Pacific and Atlantic with computational models of coda structure, we uncover evidence that sperm whales not only share clan-specific repertoires but also learn aspects of vocal style from neighbouring clans. This suggests that cultural boundaries are porous, maintained by identity but shaped by interaction, and calls for an expanded notion of vocal identity that includes both repertoire and stylistic nuance. I will then turn to the social context in which such learning occurs: the cooperative dynamics of sperm whale groups. Using high-resolution drone footage, we reconstructed the collective behaviour surrounding the first documented sperm whale birth in over forty years. The event revealed a tightly coordinated network of assistance across kinship lines, where all members participated in protecting and lifting the negatively buoyant new-born. Together, these results suggest that sperm whale societies sustain a form of collective intelligence rooted in shared learning and cooperative care—one where communication and cooperation co-evolve as coupled substrates of culture. \n\n\n\n\n \n\n\n\n\nBristol Doctoral College (BDC) Events and Opportunities\n\n\n\n\n\n\nBDC’s November and December Personal & Professional Development (PPD) workshops are now open for bookings!  \n\n\n\n\n\n\nWhy Join?  Whether you’re just starting out or preparing to share your work with the world, these sessions are designed to support you in making real progress in your research and career.  Just choose the sessions that fit your goals and schedule. More information can be found on the BDC webpage.  \n\n\n\n\n\n\nRecommended for Early-Stage PGRs \n\n\n\n\n\n\n\n\nDeveloping an Effective Relationship with Your Supervisor 5 November, 14:00 to 17:00 (Online)  \n\n\n\n\n\n\nBuild strong, collaborative relationships with strategies that support clear communication and shared expectations. \n\n\n\n\n\n\nTurbo Charge Your Writing 13 November, 9:30 am to 12:00 (Online)  \n\n\n\n\n\n\nLearn practical techniques to boost your writing productivity and reduce the stress of getting started. \n\n\n\n\n\n\nWork Smarter not Harder: File Management, Open Access & Copyright (Hybrid) 26 November, 13:00 to 16:00 Online In-person \n\n\n\n\n\n\nSet up systems that save time and support good research practice from the start. \n\n\n\n\n\n\nRecommended for Mid to Late Stage PGRs \n\n\n\n\n\n\n\n\n\n\nPerfect Posters (Hybrid) 3 November, 14:00 to 16:00 Online In-person \n\n\n\n\n\n\nDesign posters that communicate your research clearly and attract attention at conferences. \n\n\n\n\n\n\nPresenting Your Research 12 November, 13:00 to 16:00 (Face–to–face)  \n\n\n\n\n\n\nStrengthen your presentation skills and learn how to engage different audiences with confidence. [Recommended if you plan to take part in next year’s 3MT competition!] \n\n\n\n\n\n\nHow to Be an Inclusive Researcher Thursday 20 November, 10 am to 1 pm (Face-to-face)  \n\n\n\n\n\n\nExplore inclusive research practices that enhance the quality and relevance of your work. \n\n\n\n\n \n\n\n\n\nReference management: EndNote Online – organiser: Library - Subject Support\n\n\n\n\nDate: 20 October 14:00 – 15:00 (Online) \n\n\n\n\nEndNote Online is a reference management software package that lets you gather and organise references, then cite them in various word processors whilst automatically creating a bibliography. \n\n\n\n\nBy the end of this introductory workshop you will be able to: \n\n\n\n\n\n\nimport references to EndNote \n\n\n\n\n\n\n\n\n\n\nmanually enter references \n\n\n\n\n\n\n\n\nsearch your EndNote library for specific references and organise them with groups \n\n\n\n\n\n\n\n\ncite and edit references in MS Word. \n\n\n\n\n\n\nBook your place here.  \n\n\n\n\nAround Bristol\n\n\n\n\n\n\nHelios at Bristol Cathedral \n\n\n\n\n\n\nDate: 06 October – 02 November \n\n\n\n\nLocation: Bristol Cathedral, College Green, BS1 5TJ \n\n\n\n\nHelios is a seven-metre internally illuminated sphere that brings the sun’s intricate details into view. Created at a scale of 1:200 million, each centimetre of the sculpture represents 2,000 km of the sun’s surface. Visitors can explore sunspots, filaments, and solar flares—features that are usually millions of miles away—safely and up close. Read more.  \n\n\n\n\nAdmission: Entry by donation | No booking required \n\n\n\n\n \n\n\n\n\n\n\nBlack Beauty at The Island Gallery \n\n\n\n\n\n\nDate: 24 October 19:00 – 22:00, 25 October 12:00 – 17:00 \n\n\n\n\nLocation: The Island Gallery, Bridewell Street, Bristol. BS1 2QD Local legend Jennie Cave presents a collection of new photo montages celebrating black beauty, culture and community. Through retro-surreal collage, Cave reimagines Black identity, joy and cultural heritage using bold visuals drawn from vintage photography and ephemera.  \n\n\n\n\n\n\nForthcoming Calendar of Events\n\nReference management: EndNote Online – organiser: Library - Subject Support - 2025-10-20Digital Health Seminar Series - 2025-10-28Conception X 2026 – applications are now open - 2025-10-30",
-    "crumbs": [
-      "Newsletter",
-      "Newsletter Issue - 17-10-2025"
-    ]
-  },
-  {
     "objectID": "newsletter_issues/cdt_weekly_newsletter-17-10-2025.html",
     "href": "newsletter_issues/cdt_weekly_newsletter-17-10-2025.html",
     "title": "Newsletter Issue - 17-10-2025",
     "section": "",
     "text": "CDT Weekly Newsletter\n\n\n\n\nMessage from the Director\n\n\nAI Lunch and Learn Seminars\n\n\nConception X 2026 – applications are now open\n\n\nDigital Health Seminar Series\n\n\nTuring Seminar Series\n\n\nBristol Doctoral College (BDC) Events and Opportunities\n\n\nReference management: EndNote Online – organiser: Library - Subject Support\n\n\nAround Bristol\n\n\n\n\nWelcome to this week’s issue of the newsletter.\n\n\nMessage from the Director\n\n\n\nI am sure many of you have seen bad examples of using generative AI in research, paper reviewing, paper writing etc. I am equally sure that many of you have found ways to use GenAI in productive ways while steering clear of the edges of scientific propriety. If this is you then I want to hear from you. I am planning to organise an end-of-year CDT workshop on the use of GenAI in academic research: the good, the bad and the ugly. Please get in touch if you have ideas about possible discussion topics and sessions. \n\n\n\nAI Lunch and Learn Seminars\n\n\n\n\n\n\nWei-Hong Li: Universal AI: Toward Balanced, Efficient, and 3D-Aware Learning \n\n\n\n\n\n\nDate: 22 October, pizza from 13:30 – 14:00 followed by the talk from 14:00 – 15:00 \n\n\n\n\nLocation: Room 1.07, Queen’s Building \n\n\n\n\nAbstract: Modern AI systems achieve remarkable performance on specialized tasks, yet they often struggle to generalize across domains, modalities, and supervision levels. Bridging these divides between tasks, data sources, and 2D/3D understanding is essential for building universal and fair intelligence that can adapt flexibly to real-world scenarios. Such capabilities would unlock broad applications spanning autonomous perception, multimodal generation, embodied AI, and scientific discovery.  \n\n\n\n\nIn this talk, I will present our recent efforts toward Universal AI, a research direction that aims to learn balanced, data-efficient, and geometrically grounded representations. I will first introduce methods for learn balanced and transferable representations through a single network that generalize to diverse tasks, domains, and in cross-domain few-shot scenarios and diffusion models. I will then discuss approaches for learning from partially annotated data, enabling effective supervision sharing across dense prediction tasks. Finally, I will highlight our latest work on 3D-aware understanding and compositional generation, where geometric priors and language guidance empower models to reason about space, structure, and semantics in a unified framework.  \n\n\n\n\n\n\nBio: Wei-Hong Li is an Assistant Professor in the School of Computer Science at the University of Bristol, and a faculty member of the MaVi group. He is also a member of ELLIS. He received his PhD from the University of Edinburgh, advised by Hakan Bilen and Timothy Hospedales, and subsequently worked as a postdoctoral researcher there. He was also a postdoctoral fellow at the MultiMedia Lab (MMLab) at the Chinese University of Hong Kong, working with Xiangyu Yue. His research focuses on universal representation learning, learning from limited supervision, and 3D-aware visual understanding. His work received several awards including Best Paper Award Finalist at CVPR 2022, BMVA Sullivan Doctoral Thesis Prize (Runner-Up), Best Paper Award at ICIG2017. \n\n\n\n\n \n\n\n\n\n\n\nUpcoming seminars for this term (save the dates): \n\n\n\n\n\n\n19 Nov 2025, Kostas Sechidis (Novartis) \n\n\n\n\n26 Nov 2025, Xiyue Zhang (School of Computer Science, University of Bristol) \n\n\n\n\n10 Dec 2025, Michael Rule (School of Engineering Mathematics and Technology, University of Bristol) \n\n\n\n\nTitles and abstracts to follow.   \n\n\n\n\nConception X 2026 – applications are now open\n\n\n\nConception X is hosting an online Discovery Session on 30 October for PhD students, postdocs and early-career researchers interested in commercialising their research. \n\n\n\n\nInterested students can join a Discovery Session to learn more, or can apply via the Conception X website when ready. Deadline: 16 December 2025. \n\n\n\n\n \n\n\n\nDigital Health Seminar Series\n\n\n\n\n\n\nDarren Scott: Making the House a Home for Habits: Components and Characteristics for Home-Based Exercise Snacking \n\n\n\n\n\n\nLocation: In Person AIMS Seminar Room 1 (University of Bristol only) & Online (Link coming shortly) Date: 28 October 2025 14:00-15:00  \n\n\n\n\nAbstract: There is a societal crisis taking place around the limited exercise we fit into our daily lives. A potential solution to this is exercise snacking, the concept of fitting much smaller exercises into much smaller windows, typically within the home in flow of other duties. There is currently limited technical exploration of how to integrate these exercises, which we sought to resolve through a six-workshop series. The first three workshops looked at how to design for different groups and environments, and how these considerations may manifest in both new and evolving designs. The latter three workshops looked at low-fidelity prototypes, gaining some insights into preferred modalities as well as how they may work alongside necessary considerations such as existing routines and co-habitants. \n\n\n\n\nTuring Seminar Series\n\n\n\n\n\n\nPeter Tennant: Have DAGs fulfilled their promise in epidemiology and health research?  \n\n\n\n\n\n\nDate: 22 October 13:00 – 14:00 \n\n\n\n\nLocation: Queens Building, 1.18LT \n\n\n\n\n\n\nAbstract: Causal directed acyclic graphs (DAGs) are among the most widely used causal diagrams. Developed in the 1980s and 1990s, with intellectual roots extending back to the 1920s, DAGs have become a core part of the modern data scientist’s toolkit for planning and interpreting causal analyses of observational data. Advocates argue that DAGs improve the quality of causal research by increasing transparency and clarifying common analytical pitfalls. Critics, however, question whether these benefits have truly materialized, pointing to a persistent gap between theoretical promise and real-world practice. \n\n\n\n\nAt the 2024 World Congress of Epidemiology, Dr Peter Tennant (University of Leeds) and Prof Margarita Moreno Betancur (University of Melbourne) took part in a debate on whether DAGs have fulfilled their promise in epidemiology. In this talk, Dr Tennant will revisit the key arguments from that debate and share further reflections on how DAGs can be used more effectively in epidemiology and health research. \n\n\n\n\n \n\n\n\n\n\n\nGiovanni Petri: Tracing the Cultural Fabric of Sperm Whale Societies  \n\n\n\n\n\n\nDate: 5 November 13:00 – 14:00 \n\n\n\n\nLocation: Biomedical Building, C42 \n\n\n\n\nAbstract: \n\n\n\n\nSperm whales live in highly structured societies where communication and cooperation intertwine in complex ways.  In this talk, I will explore how these two social dimensions —vocal culture and collective behaviour— interact within sperm whale societies.  By combining large-scale acoustic datasets from the Pacific and Atlantic with computational models of coda structure, we uncover evidence that sperm whales not only share clan-specific repertoires but also learn aspects of vocal style from neighbouring clans. This suggests that cultural boundaries are porous, maintained by identity but shaped by interaction, and calls for an expanded notion of vocal identity that includes both repertoire and stylistic nuance. I will then turn to the social context in which such learning occurs: the cooperative dynamics of sperm whale groups. Using high-resolution drone footage, we reconstructed the collective behaviour surrounding the first documented sperm whale birth in over forty years. The event revealed a tightly coordinated network of assistance across kinship lines, where all members participated in protecting and lifting the negatively buoyant new-born. Together, these results suggest that sperm whale societies sustain a form of collective intelligence rooted in shared learning and cooperative care—one where communication and cooperation co-evolve as coupled substrates of culture. \n\n\n\n\n \n\n\n\n\nBristol Doctoral College (BDC) Events and Opportunities\n\n\n\n\n\n\nBDC’s November and December Personal & Professional Development (PPD) workshops are now open for bookings!  \n\n\n\n\n\n\nWhy Join?  Whether you’re just starting out or preparing to share your work with the world, these sessions are designed to support you in making real progress in your research and career.  Just choose the sessions that fit your goals and schedule. More information can be found on the BDC webpage.  \n\n\n\n\n\n\nRecommended for Early-Stage PGRs \n\n\n\n\n\n\n\n\nDeveloping an Effective Relationship with Your Supervisor 5 November, 14:00 to 17:00 (Online)  \n\n\n\n\n\n\nBuild strong, collaborative relationships with strategies that support clear communication and shared expectations. \n\n\n\n\n\n\nTurbo Charge Your Writing 13 November, 9:30 am to 12:00 (Online)  \n\n\n\n\n\n\nLearn practical techniques to boost your writing productivity and reduce the stress of getting started. \n\n\n\n\n\n\nWork Smarter not Harder: File Management, Open Access & Copyright (Hybrid) 26 November, 13:00 to 16:00 Online In-person \n\n\n\n\n\n\nSet up systems that save time and support good research practice from the start. \n\n\n\n\n\n\nRecommended for Mid to Late Stage PGRs \n\n\n\n\n\n\n\n\n\n\nPerfect Posters (Hybrid) 3 November, 14:00 to 16:00 Online In-person \n\n\n\n\n\n\nDesign posters that communicate your research clearly and attract attention at conferences. \n\n\n\n\n\n\nPresenting Your Research 12 November, 13:00 to 16:00 (Face–to–face)  \n\n\n\n\n\n\nStrengthen your presentation skills and learn how to engage different audiences with confidence. [Recommended if you plan to take part in next year’s 3MT competition!] \n\n\n\n\n\n\nHow to Be an Inclusive Researcher Thursday 20 November, 10 am to 1 pm (Face-to-face)  \n\n\n\n\n\n\nExplore inclusive research practices that enhance the quality and relevance of your work. \n\n\n\n\n \n\n\n\n\nReference management: EndNote Online – organiser: Library - Subject Support\n\n\n\n\nDate: 20 October 14:00 – 15:00 (Online) \n\n\n\n\nEndNote Online is a reference management software package that lets you gather and organise references, then cite them in various word processors whilst automatically creating a bibliography. \n\n\n\n\nBy the end of this introductory workshop you will be able to: \n\n\n\n\n\n\nimport references to EndNote \n\n\n\n\n\n\n\n\n\n\nmanually enter references \n\n\n\n\n\n\n\n\nsearch your EndNote library for specific references and organise them with groups \n\n\n\n\n\n\n\n\ncite and edit references in MS Word. \n\n\n\n\n\n\nBook your place here.  \n\n\n\n\nAround Bristol\n\n\n\n\n\n\nHelios at Bristol Cathedral \n\n\n\n\n\n\nDate: 06 October – 02 November \n\n\n\n\nLocation: Bristol Cathedral, College Green, BS1 5TJ \n\n\n\n\nHelios is a seven-metre internally illuminated sphere that brings the sun’s intricate details into view. Created at a scale of 1:200 million, each centimetre of the sculpture represents 2,000 km of the sun’s surface. Visitors can explore sunspots, filaments, and solar flares—features that are usually millions of miles away—safely and up close. Read more.  \n\n\n\n\nAdmission: Entry by donation | No booking required \n\n\n\n\n \n\n\n\n\n\n\nBlack Beauty at The Island Gallery \n\n\n\n\n\n\nDate: 24 October 19:00 – 22:00, 25 October 12:00 – 17:00 \n\n\n\n\nLocation: The Island Gallery, Bridewell Street, Bristol. BS1 2QD Local legend Jennie Cave presents a collection of new photo montages celebrating black beauty, culture and community. Through retro-surreal collage, Cave reimagines Black identity, joy and cultural heritage using bold visuals drawn from vintage photography and ephemera.  \n\n\n\n\n\n\nForthcoming Calendar of Events\n\nReference management: EndNote Online – organiser: Library - Subject Support - 2025-10-20Digital Health Seminar Series - 2025-10-28Conception X 2026 – applications are now open - 2025-10-30"
+  },
+  {
+    "objectID": "open_research_projects.html",
+    "href": "open_research_projects.html",
+    "title": "Open Research Projects",
+    "section": "",
+    "text": "(TO BE UPDATED)\nHere is a list of research projects in Interactive AI that we are currently recruiting to. We are asking applicants to base their research statement on one of these. Further projects may become available in due course and will be added here.\n\nDigital waste in Interactive AI\nDigital waste is defined as the use of digital infrastructure for services that are not or only partly enjoyed by the user. Design techniques that can reduce demand on infrastructure will thus contribute to the reduction of environmental impact. As Interactive AI applications embed the human in an interaction loop with a digital device, it is particularly relevant to consider digital waste. Working with Dr Daniel Schien, you will investigate digital waste from two complementary angles: reducing digital waste in Interactive AI applications; and applying Interactive AI to reduce digital waste in ICT services in general.\n\n\nInteractive AI for dealing with bias in language\nNatural language processing (NLP) is finding new uses in a wide range of applications, such as recruitment, healthcare, policing, advertising and social media monitoring. NLP models can learn and may even amplify social biases and stereotypes, resulting in automated systems making unfair decisions against certain groups of people. To address the problem, new analysis tools are required that let domain experts probe models for different forms of bias and evaluate and adjust techniques like adversarial debiasing. Working with Dr Edwin Simpson, you will develop novel techniques and create interactive tools for analysing and correcting such biases.\n\n\nInteractive AI to help understand Parkinson’s disease\nThe availability of real-time information through the increasing capabilities of sensing devices has led to the emergence of research into Activity Recognition. Investigating the activities and sleep patterns of patients with a condition such as Parkinson’s Disease can help to understand the progression of the disease and the effect of medications. Working with Dr Zahraa Abdallah, you will develop novel Interactive AI techniques for analysing accelerometer data collected by wrist-worn sensors, examine episodes of sleep and identify distinguishing features, unusual patterns, and sleep quality measures.\n\n\nProsociality as a foundation for ethics and fairness in Interactive AI\nCurrent research on ethics and fairness in Interactive AI focuses on a single agent, often associated with an entity such as a mortgage lender or a judge. It is often more appropriate to model ethics and fairness as a social concern between prosocial agents. Working with Dr Nirav Ajmeri, you will uncover the principles of prosociality on which AI agents can interact with each other and with humans to realize fair outcomes for the humans involved. Such agents would (autonomously) behave prosocially and (collaboratively) strengthen prosociality among human actors by facilitating their awareness of each other’s needs and preferences.\n\n\nInteractive modelling of language\nWithin the field of computational linguistics there are different ways to model language: corpus based approaches which generate meaning from large bodies of text; the evolutionary linguistic approach which derives meaning from interaction with the outside world and with other agents; and the vector-symbolic approach which can be implemented in more biologically plausible artificial neural networks. Working with Dr Martha Lewis, you will unify these three approaches to propose a model of language that is compositional, interactive, and has a neural implementation, opening up the framework to teaching through interaction with a human."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The new CDT doesn’t yet have a blog, but in the meantime you can have a look at the Interactive AI CDT blog.\nThe IAI CDT uploads posts to its blog regularly, showcasing our latest research, events, and news.\nBlog",
+    "crumbs": [
+      "Home",
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the PrO-AI CDT",
+    "section": "",
+    "text": "The UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence (PrO-AI) will deliver the next generation of innovators producing state-of-the-art AI solutions in existing and future domains that will transform UK science, economy and society. Founded on our extensive experience in doctoral training for designing and building complex human-centred AI pipelines, and developed in collaboration with a broad range of industry partners, the PrO-AI CDT will equip researchers with essential skills in co-designing and building practice-oriented AI applications across science and research domains of national importance. The specific objectives are:\n\nto recruit highly motivated postgraduate students from computer science, mathematics, and cognate disciplines following best practices in equality, diversity and inclusion, and create an immersive training experience which introduces and reinforces the principles needed to successfully design effective and trustworthy AI solutions across sicence and research domains, delivered within a distinctive cohort training environment;\nto train and deliver PhD graduates able to critically recognise the potential for AI solutions in a particular domain, work with domain experts to elicit requirements and articulate what AI capabilities are needed, translate the requirements into system specifications taking into account legal and ethical considerations, implement a prototype AI system, and deploy the AI system in production and continuously assess its performance in solving the originally stated problem;\nto promote a human-in-the-loop ethos that emphasises technology co-design for and with humans, with PhD students mastering the techniques for eliciting requirements from domain experts, overcoming existing barriers for the adoption of AI in key fields such as health, environment and energy, and creative industries – and develop world-class research in these areas;\nto set the highest standards for our PhD students of responsible innovation with particular emphasis on AI-specific issues when co-designing AI solutions with domain experts, such as transparency, explainability, accountability, fairness, trustworthiness and privacy, and establishing clear guidelines for the sustainable use of data, software and compute, leading to net zero;\nto train “AI ambassadors” who, through their deep understanding of the strengths and limitations of artificial intelligence in different areas, can contribute to and lead the public debate on AI and its relationship to society;\nto support the development of entrepreneurial skills and intellectual property, as our graduates will be able to seamlessly work across domains, establishing and contributing to AI teams in different fields;\nto be an exemplar for technology-supported cohort-based training, using the latest developments and insights in flipped-classroom teaching and teamwork, open software development tools and platforms with input from our industry partners, and cross-cohort mentoring;\nto build long-term relationships between the CDT and its industrial partners, government and regulators, enhancing the cohort provision through placements, co-supervised projects and research collaborations;\nto contribute to the “democratisation of AI” and reduce inequality within the sector by promoting take-up of relevant AI techniques in SMEs across sectors;\nto consolidate and expand existing expertise at Bristol as a leading international research training centre with relationships with global partners, building a community that will have access to expertise, and can engage and interact with the CDT through a programme of regular events, including workshops, summer schools and networking activities.",
+    "crumbs": [
+      "Home",
+      "About the PrO-AI CDT"
+    ]
+  },
+  {
+    "objectID": "people/cohort_2024.html",
+    "href": "people/cohort_2024.html",
+    "title": "Cohort 2024",
+    "section": "",
+    "text": "Berenika Ewart-James\nBezawit Tilaye\nDavid Fox\nJack Woodcock\nJake Chastney\nJames Brock\nJono Vincent\nMoses Guran",
+    "crumbs": [
+      "People",
+      "Cohort 2024"
+    ]
+  },
+  {
+    "objectID": "people/supervisors.html",
+    "href": "people/supervisors.html",
+    "title": "Supervisors",
+    "section": "",
+    "text": "Dr Zahraa Abdallah\nProfessor Andrew Charlesworth\nDr Telmo de Menezes e Silva Filho\nDr Conor Houghton\nProfessor Kenton O’Hara\nProfessor Raul Santos-Rodriguez\nDr Nirav Ajmeri\nDr James Cussens\nProfessor Peter Flach\nDr Paul Marshall\nDr Oliver Ray\nDr Edwin Simpson",
+    "crumbs": [
+      "People",
+      "Supervisors"
+    ]
   },
   {
     "objectID": "partners.html",
@@ -205,46 +269,6 @@
     "crumbs": [
       "Home",
       "Partners"
-    ]
-  },
-  {
-    "objectID": "people/cohort_2025.html",
-    "href": "people/cohort_2025.html",
-    "title": "Cohort 2025",
-    "section": "",
-    "text": "Tom Heslin\nAbby Morris\nIke Ofodile\nSanjukta Bhattacharya\nPriya Kharbanda\nRussell Summers\nIsobel Higgins\nGuoda Laurinaviciute\nEd Daniels\nNoah Barker\nNyamvula Chakaya\nGonzalo Cancio-Donlebun",
-    "crumbs": [
-      "People",
-      "Cohort 2025"
-    ]
-  },
-  {
-    "objectID": "people/supervisors.html",
-    "href": "people/supervisors.html",
-    "title": "Supervisors",
-    "section": "",
-    "text": "Dr Zahraa Abdallah\nProfessor Andrew Charlesworth\nDr Telmo de Menezes e Silva Filho\nDr Conor Houghton\nProfessor Kenton O’Hara\nProfessor Raul Santos-Rodriguez\nDr Nirav Ajmeri\nDr James Cussens\nProfessor Peter Flach\nDr Paul Marshall\nDr Oliver Ray\nDr Edwin Simpson"
-  },
-  {
-    "objectID": "phd_projects.html",
-    "href": "phd_projects.html",
-    "title": "PhD Projects",
-    "section": "",
-    "text": "TBA",
-    "crumbs": [
-      "Programme details",
-      "PhD Projects"
-    ]
-  },
-  {
-    "objectID": "summer_projects.html",
-    "href": "summer_projects.html",
-    "title": "Summer Projects",
-    "section": "",
-    "text": "TBA",
-    "crumbs": [
-      "Programme details",
-      "Summer Projects"
     ]
   }
 ]
