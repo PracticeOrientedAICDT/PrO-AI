@@ -8,4 +8,4 @@ format:
 title: Newsletter Issue - 09-02-2026
 
 ---
-<h2>CDT Weekly Newsletter</h2><br><ul><li><p>A new announcement&nbsp;</p></li></ul><p><p>Welcome to this week's issue of the newsletter.</p></p><br><br><b><p>A new announcement&nbsp;</p></b><br><p>A new announcement&nbsp;</p><br><br><h2>Forthcoming Calendar of Events</h2><br><br>
+<h2>CDT Weekly Newsletter</h2><br><ul><li><p>New Announcements&nbsp;</p></li></ul><p><p>Welcome to this week's issue of the newsletter.</p></p><br><br><b><p>New Announcements&nbsp;</p></b><br><p>New Announcements&nbsp;</p><br><br><h2>Forthcoming Calendar of Events</h2><br><br>
