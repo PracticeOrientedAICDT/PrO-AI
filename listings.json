@@ -1,5 +1,19 @@
 [
   {
+    "listing": "/previous_issues.html",
+    "items": [
+      "/newsletter_issues/cdt_weekly_newsletter-02-03-2026.html"
+    ]
+  },
+  {
+    "listing": "/cohort_2024.html",
+    "items": [
+      "/cohort_2024_students/student_3.html",
+      "/cohort_2024_students/student_2.html",
+      "/cohort_2024_students/student_1.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/cohort_2024.html",
@@ -7,17 +21,5 @@
       "/people/staff.html",
       "/people/supervisors.html"
     ]
-  },
-  {
-    "listing": "/cohort_2024.html",
-    "items": [
-      "/cohort_2024_students/student_1.html",
-      "/cohort_2024_students/student_3.html",
-      "/cohort_2024_students/student_2.html"
-    ]
-  },
-  {
-    "listing": "/previous_issues.html",
-    "items": []
   }
 ]
