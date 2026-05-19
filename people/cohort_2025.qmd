@@ -83,7 +83,7 @@ Ed previously completed a first-class Master’s degree in Film and Television w
 ::: {.student-supervisor .mt-3}
 **Supervisor:** *TBC*  
 :::
-<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Profile coming soon</span>
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
 :::
 :::
 
