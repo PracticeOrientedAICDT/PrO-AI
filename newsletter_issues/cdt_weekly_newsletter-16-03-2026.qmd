@@ -1,0 +1,15 @@
+---
+execute:
+  echo: false
+format:
+  html:
+    df-print: paged
+    toc: true
+title: Newsletter Issue - 16-03-2026
+
+---
+<h2>CDT Weekly Newsletter</h2><br><ul><li><p class="x_elementToProof"><span style="color: rgb(185, 106, 217);"><strong data-olk-copy-source="MessageBody">Keynotes LIVE talk:&nbsp;The why and how of classifier calibration&nbsp;given by Peter Flach</strong>&nbsp;</span></p></li></ul><p><p>Welcome to this week's issue of the newsletter.</p></p><br><br><b><p class="x_elementToProof"><span style="color: rgb(185, 106, 217);"><strong data-olk-copy-source="MessageBody">Keynotes LIVE talk:&nbsp;The why and how of classifier calibration&nbsp;given by Peter Flach</strong>&nbsp;</span></p></b><br><p class="x_elementToProof"><strong data-olk-copy-source="MessageBody">Time: </strong>15:00 - 16:00</p>
+<p class="x_elementToProof"><strong data-olk-copy-source="MessageBody">Location</strong>: Pugsley Lecture Theatre, Queens Building&nbsp;</p>
+<p class="x_elementToProof"><strong>Title:&nbsp;</strong>The why and how of classifier calibration&nbsp;</p>
+<p class="x_elementToProof"><strong>Abstract:&nbsp;</strong>In machine learning, a well-calibrated classifier correctly quantifies the level of uncertainty or confidence associated with its instance-wise predictions. This is essential for critical applications,&nbsp;optimal&nbsp;decision making, cost-sensitive classification, and for some types of context change. Peter will survey the main concepts and methods, including proper scoring rules and other evaluation metrics,&nbsp;visualisation&nbsp;approaches, and post-hoc calibration methods for binary and multiclass classification.&nbsp;</p>
+<p class="x_elementToProof"><strong>Bio:</strong> Peter Flach is Professor of Artificial Intelligence&nbsp;in&nbsp;the School of Computer Science at the University of Bristol and was already doing AI long before it became fashionable. Over the years, his research has focused on mining highly structured data, the evaluation and improvement of machine learning models, and interpretable, human-centred&nbsp;AI. Peter is Director of the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial&nbsp;Intelligence, and&nbsp;was founding Director of the preceding UKRI CDT in Interactive AI.&nbsp;</p><br><br><h2>Forthcoming Calendar of Events</h2><br><br><b><p><strong><span style="color: rgb(196, 89, 17);"><span class="TextRun SCXW121402515 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW121402515 BCX8">CDT&nbsp;</span><span class="NormalTextRun SCXW121402515 BCX8">AI Symposium &ndash; Foundation and Applications of Trustworthy AI</span></span><span class="EOP SCXW121402515 BCX8" data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:257,&quot;469777462&quot;:[1134],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span></span></strong></p> - 2026-03-27</b><br>
