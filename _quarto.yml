@@ -3,47 +3,71 @@ project:
 
 website:
   title: "Practice-Oriented AI CDT"
+  
   sidebar:
+    id: "main-sidebar"
     collapse-level: 2
     style: "docked"
     logo: "pro-ai-logo.gif"
+    background: "#f8fafc" 
     contents:
       - section: "Home"
         contents:
-          - index.qmd
-          - about.qmd
-          - partners.qmd
-          - events.qmd
-          - blog.qmd
-          - equality_diversity_and_inclusion.qmd
-          - contact.qmd
-        text: "Equality Diversity and Inclusion"
-      - section: "Programme details"
+          - text: "Overview"
+            file: index.qmd
+          - text: "About the CDT"
+            file: about.qmd
+          - text: "Partners"
+            file: partners.qmd
+          - text: "Equality, Diversity & Inclusion"
+            file: equality_diversity_and_inclusion.qmd
+          - text: "Contact Us"
+            file: contact.qmd
+
+      - section: "Programme Details"
         contents:
-          - foundation_year.qmd
-          - summer_projects.qmd
-          - phd_projects.qmd
-      - section: "People"
+          - text: "Foundation Year"
+            file: foundation_year.qmd
+          - text: "Summer Projects"
+            file: summer_projects.qmd
+          - text: "PhD Projects"
+            file: phd_projects.qmd
+
+      - section: "Our People"
         contents:
-          -  people/cohort_2024.qmd
-          -  people/cohort_2025.qmd
-          -  people/staff.qmd
-          -  people/supervisors.qmd
+          - text: "Cohort 2024"
+            file: people/cohort_2024.qmd
+          - text: "Cohort 2025"
+            file: people/cohort_2025.qmd
+          - text: "Supervisors"
+            file: people/supervisors.qmd
+          - text: "Professional Staff"
+            file: people/staff.qmd
+
       - section: "Apply"  
         contents:
-          - why_study_with_us.qmd
-          - how_to_apply.qmd
-          - funding.qmd
-      - section: "Newsletter"
+          - text: "Why Study With Us"
+            file: why_study_with_us.qmd
+          - text: "How to Apply"
+            file: how_to_apply.qmd
+          - text: "Funding"
+            file: funding.qmd
+
+      - section: "News & Community"
         contents: 
-          - newsletter.qmd
-          - previous_issues.qmd
+          - text: "Events"
+            file: events.qmd
+          - text: "Blog"
+            file: blog.qmd
+          - text: "Latest Newsletter"
+            file: newsletter.qmd
+          - text: "Previous Issues"
+            file: previous_issues.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, custom.scss]
     css: styles.css
     toc: true
-
-
-
+    linkcolor: "#b01c2e"
