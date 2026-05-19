@@ -2,11 +2,52 @@
 title: Cohort 2024
 ---
 
-- [Berenika Ewart-James](https://berenika-ej.github.io/personal_page/)
-- [Bezawit Tilaye]()
-- [David Fox](https://davidfox-66.github.io/personal_page/)
-- [Jack Woodcock](https://proai-jack.github.io/personal_page/)
-- [Jake Chastney](https://jakechast.github.io/personal_page/)
-- [James Brock](https://jamesbrockuob.github.io/personal_page/)
-- [Jono Vincent](https://jonovincent-proai.github.io/personal_page/)
-- [Moses Guran](https://moiseguran13.github.io/personal_page/)
+
+![Berenika](images_2024/berenika_ewart_james.png){width=75px} Berenika Ewart-James
+
+Berenika investigates how simulations can be used to personalise physical activity plans using minimal user data, targeting scalable and privacy-conscious health interventions.
+Supervisor: Prof. Raul Santos-Rodriguez, School of Engineering Mathematics and Technology 
+More information [here](https://berenika-ej.github.io/personal_page/)
+
+![Bezawit](images_2024/bezawit_lake_tilaye.png){width=75px} Bezawit Tilaye
+
+Bezawit's work critically examines how fairness, accountability, and transparency are addressed in healthcare AI systems, with the goal of identifying practical gaps and improving ethical standards in medical AI applications. 
+Supervisor: Dr. Telmo de Menezes e Silva Filho School of Engineering Mathematics and Technology  
+More information [here]()
+
+![David](images_2024/david_fox.png){width=75px} David Fox
+
+David focuses on developing techniques that generate high-quality interpolated video frames while maintaining computational efficiency, with potential impact in media production and video streaming.
+Supervisor: Dr. Aaron Zhang, School of Computer Science 
+More information [here](https://davidfox-66.github.io/personal_page/)
+
+![Jack](images_2024/jack_woodcock.png){width=75px} Jack Woodcock
+
+Jack evaluates how effectively ML-based climate models capture extreme weather events, examining the models’ understanding of the underlying physics to offer insights into their predictive capabilities and limitations for real-world climate forecasting.
+Supervisor: Dr. Peter Watson, School of Geographical Sciences 
+More information [here](https://proai-jack.github.io/personal_page/)
+
+![Jake](images_2024/jake_chastney.png){width=75px} Jake Chastney
+
+Jake is building a reasoning pipeline that combines neural and symbolic methods over knowledge graphs, with mechanisms for empirical rule validation and probabilistic inference, aimed at complex decision-making tasks. 
+Supervisor: Dr. James Cussens, School of Computer Science  
+More information [here](https://jakechast.github.io/personal_page/)
+
+![James](images_2024/james_brock.png){width=75px} James Brock
+
+Jake is building a reasoning pipeline that combines neural and symbolic methods over knowledge graphs, with mechanisms for empirical rule validation and probabilistic inference, aimed at complex decision-making tasks. 
+Supervisor: Dr. James Cussens, School of Computer Science  
+More information [here](https://jamesbrockuob.github.io/personal_page/)
+
+![Jono](images_2024/jono_vincent.png){width=75px} Jono Vincent
+
+Jono explores how adversarial strategies develop in the game of Go, aiming to classify and analyse these behaviours. The project contributes to improving the robustness and interpretability of AI in strategic games.
+Supervisor: Dr. Telmo de Menezes e Silva Filho School of Engineering Mathematics and Technology
+More information [here](https://jonovincent-proai.github.io/personal_page/)
+
+![moses](images_2024/moses_guran.png){width=75px} Moses Guran
+
+Moses introduces a novel video compression method inspired by neural spiking behaviour. The project aims to reduce data rates while preserving quality, opening new directions in biologically inspired video coding.
+Supervisor: Dr. Aaron Zhang, School of Computer Science 
+More information [here](https://moiseguran13.github.io/personal_page/)
+
