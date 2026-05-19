@@ -1,0 +1,11 @@
+---
+execute:
+  echo: false
+format:
+  html:
+    df-print: paged
+    toc: true
+title: "More Information"
+---
+
+For more information click <a href=https://www.bristol.ac.uk/cdt/practice-oriented-ai/>here</a>
