@@ -1,16 +1,163 @@
 ---
-title: Supervisors
+title: "Supervisors"
+format: html
 ---
 
-- [Dr Zahraa Abdallah](https://www.bristol.ac.uk/people/person/Zahraa-Abdallah-06844ace-4e4b-4cf5-8212-7266bec7ede8/)
-- [Professor Andrew Charlesworth](https://www.bristol.ac.uk/people/person/Andrew-Charlesworth-713e018c-750d-4cfa-a273-429c0570d9aa/)
-- [Dr Telmo de Menezes e Silva Filho](https://www.bristol.ac.uk/people/person/Telmo-de%20Menezes%20e%20Silva%20Filho-fc698b45-b1f5-45c7-9a07-235f2a876c0c/)
-- [Dr Conor Houghton](https://www.bristol.ac.uk/people/person/Conor-Houghton-f45783f6-1b75-4e65-98eb-d349cc34cac5/)
-- [Professor Kenton O'Hara](https://www.bristol.ac.uk/people/person/Kenton-O'Hara-4065c3ec-5b82-45b7-abbf-c43359309e32/)
-- [Professor Raul Santos-Rodriguez](https://www.bristol.ac.uk/people/person/Raul-Santos-Rodriguez-1d708791-ea39-4078-89e6-c5c81b8c1a22/)
-- [Dr Nirav Ajmeri](https://www.bristol.ac.uk/people/person/Nirav-Ajmeri-02e01a96-b140-478a-a451-2eb53cf89dd7/)
-- [Dr James Cussens](https://www.bristol.ac.uk/people/person/James-Cussens-97477dd2-9218-47d6-897b-0b0afa580969/)
-- [Professor Peter Flach](https://www.bristol.ac.uk/people/person/Peter-Flach-a7f5720a-024e-48a2-9cc8-c3d673798c20/)
-- [Dr Paul Marshall](https://www.bristol.ac.uk/people/person/Paul-Marshall-36d4dfa7-1ec3-4168-9226-130e47809b65/)
-- [Dr Oliver Ray](https://www.bristol.ac.uk/people/person/Oliver-Ray-36c88932-13fa-41dd-b5e4-e821e67b3acd/)
-- [Dr Edwin Simpson](https://www.bristol.ac.uk/people/person/Edwin-Simpson-8ec09f42-639a-4b57-9c5b-1708724e9c7a/)
+::: {.callout-note appearance="minimal" style="border-left-color: #b01c2e;"}
+Our CDT features a diverse pool of world-class supervisors from across the University of Bristol, guiding research in foundational and applied practical AI.
+:::
+
+<!-- Estilos customizados para os Cards de Supervisores -->
+<style>
+  .supervisor-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .supervisor-card:hover {
+    transform: translateY(-4px);
+    border-color: #b01c2e;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
+  .supervisor-img {
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #e2e8f0;
+    margin-bottom: 15px;
+    background-color: #f1f5f9;
+  }
+  .supervisor-link {
+    color: #b01c2e;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-top: auto; /* Empurra o link sempre para o final do card */
+    padding-top: 15px;
+    display: inline-block;
+  }
+  .supervisor-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+::: {.grid}
+
+<!-- Dr Zahraa Abdallah -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/dr_zahraa_abdallah.jpg" alt="Dr Zahraa Abdallah" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Dr Zahraa Abdallah</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Zahraa-Abdallah-06844ace-4e4b-4cf5-8212-7266bec7ede8/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Professor Andrew Charlesworth -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/professor_andrew_charlesworth.jpg" alt="Professor Andrew Charlesworth" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Prof. Andrew Charlesworth</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Andrew-Charlesworth-713e018c-750d-4cfa-a273-429c0570d9aa/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Dr Telmo de Menezes e Silva Filho -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/dr_telmo_de_menezes_e_silva_filho.jpeg" alt="Dr Telmo de Menezes e Silva Filho" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Dr Telmo de Menezes e Silva Filho</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Telmo-de%20Menezes%20e%20Silva%20Filho-fc698b45-b1f5-45c7-9a07-235f2a876c0c/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Dr Conor Houghton -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/dr_conor_houghton.jpg" alt="Dr Conor Houghton" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Dr Conor Houghton</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Conor-Houghton-f45783f6-1b75-4e65-98eb-d349cc34cac5/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Professor Kenton O'Hara -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/professor_kenton_ohara.jpg" alt="Professor Kenton O'Hara" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Prof. Kenton O'Hara</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Kenton-O'Hara-4065c3ec-5b82-45b7-abbf-c43359309e32/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Professor Raul Santos-Rodriguez -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/professor_raul_santos_rodriguez.jpg" alt="Professor Raul Santos-Rodriguez" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Prof. Raul Santos-Rodriguez</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Raul-Santos-Rodriguez-1d708791-ea39-4078-89e6-c5c81b8c1a22/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Dr Nirav Ajmeri -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/dr_nirav_ajmeri.jpg" alt="Dr Nirav Ajmeri" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Dr Nirav Ajmeri</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Nirav-Ajmeri-02e01a96-b140-478a-a451-2eb53cf89dd7/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Dr James Cussens -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/dr_james_cussens.jpg" alt="Dr James Cussens" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Dr James Cussens</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/James-Cussens-97477dd2-9218-47d6-897b-0b0afa580969/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Professor Peter Flach -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/professor_peter_flach.jpg" alt="Professor Peter Flach" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Prof. Peter Flach</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Peter-Flach-a7f5720a-024e-48a2-9cc8-c3d673798c20/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Dr Paul Marshall -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/dr_paul_marshall.jpg" alt="Dr Paul Marshall" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Dr Paul Marshall</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Paul-Marshall-36d4dfa7-1ec3-4168-9226-130e47809b65/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Dr Oliver Ray -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/dr_oliver_ray.jpg" alt="Dr Oliver Ray" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Dr Oliver Ray</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Oliver-Ray-36c88932-13fa-41dd-b5e4-e821e67b3acd/){.supervisor-link target="_blank"}
+:::
+:::
+
+<!-- Dr Edwin Simpson -->
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4 .g-col-lg-3}
+::: {.supervisor-card}
+<img class="supervisor-img" src="supervisors/dr_edwin_simpson.jpg" alt="Dr Edwin Simpson" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 24 24\' fill=\'%23cbd5e1\'><path d=\'M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z\'/></svg>'">
+<h5 class="fw-bold m-0" style="color: #1e293b; font-size: 1.05rem;">Dr Edwin Simpson</h5>
+[University Profile →](https://www.bristol.ac.uk/people/person/Edwin-Simpson-8ec09f42-639a-4b57-9c5b-1708724e9c7a/){.supervisor-link target="_blank"}
+:::
+:::
+
+:::

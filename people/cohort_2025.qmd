@@ -1,81 +1,277 @@
 ---
-title: Cohort 2025
+title: "Cohort 2025"
+format: html
 ---
 
-![abby](images_2025/abby_morris.png){width=75px} Abby Morris
+::: {.callout-note appearance="minimal" style="border-left-color: #b01c2e;"}
+PhD researchers who joined the Practice-Oriented AI CDT in the 2024 cohort.
+:::
 
-Abby is a data scientist with four years professional experience after graduating with a master’s degree in physics. She worked across various projects during her time in industry, most recently in evaluating the use of Reinforcement Learning for Cyber Defence. Her current research interests are centred around improving upon physical models with physics-informed machine learning or other deep learning AI algorithms, from CNNs to transformers; and she is looking for interesting problem areas to apply these techniques to in the climate science or medical domains. Outside of her studies, she regularly performs with a film-music orchestra and goes bouldering.
-Supervisor:  
-More information [here]()
+<style>
+  .student-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .student-card:hover {
+    transform: translateY(-4px);
+    border-color: #b01c2e;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
+  .student-img {
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #e2e8f0;
+  }
+  .student-supervisor {
+    font-size: 0.85rem;
+    background: #f8fafc;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: auto; /* Empurra o supervisor e o link para a base do card */
+  }
+  .student-link {
+    color: #b01c2e;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  .student-link:hover {
+    text-decoration: underline;
+  }
+</style>
 
-![ed](images_2025/ed_daniels.png){width=75px} Ed Daniels
+::: {.grid}
 
-Ed previously completed a first-class Master’s degree in Film and Television within Innovation. He has worked across robotics startups, academic publishers, and political intelligence organisations, developing practical AI systems for media, robotics, and automated analysis. His research interests span organoids, robotics, LLMs, and alignment, but as a general rule, he attracted to interesting problems and technology. Outside of research, he builds fun prototypes and websites, writes scripts or stand-up routines, and juggles fire.
-Supervisor:  
-More information [here]()
+<!-- Abby Morris -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/abby_morris.png" alt="Abby Morris">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Abby Morris</h4>
+</div>
 
-![gonzalo](images_2025/gonzalo_cancio.png){width=75px} Gonzalo Cancio-Donlebun Fernandez 
+Abby is a data scientist with four years professional experience after graduating with a master’s degree in physics. Her current research interests are centred around improving upon physical models with physics-informed machine learning or other deep learning AI algorithms.
 
-Gonzalo, is maths graduate from the University of Glasgow, where he completed a 5-year integrated master’s. Since graduating, he worked as a maths tutor and climbing guide, while making the intellectual transition into AI. His interests include model compression techniques and use of tensor networks to explore new DL architectures, as well as connections between AI cryptography, cybersecurity and autonomous cyber defence. Beyond studying, he enjoys outdoor life climbing and Brazilian jiu-jitsu alongside reading philosophy, literature and current affairs.
-Supervisor:  
-More information [here]()
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
 
-![guoda](images_2025/guoda_laurinaviciute.png){width=75px} Guoda Laurinaviciute
+<!-- Ed Daniels -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/ed_daniels.png" alt="Ed Daniels">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Ed Daniels</h4>
+</div>
 
-Guoda completed a Bachelor's degree in Artificial Intelligence at the University of Manchester before pursuing a Master’s by Research at the University of Bristol, where she focused on multimodal live audience understanding as part of the MyWorld research team. Her research interests include unmanned aerial vehicles (UAVs), defence applications, and computer vision. In her spare time, Guoda enjoys playing volleyball, bouldering, and cooking.
-Supervisor:  
-More information [here]()
+Ed previously completed a first-class Master’s degree in Film and Television within Innovation. His research interests span organoids, robotics, LLMs, and alignment, but as a general rule, he attracted to interesting problems and technology.
 
-![ikechuwu](images_2025/isobel_higgins.png){width=75px} Ikechukwu Ofodile
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Profile coming soon</span>
+:::
+:::
 
-Ike holds degrees in Electrical & Electronics Engineering and Robotics & Computer Engineering. He previously worked as a systems engineer in the design and deployment of autonomous UAV control systems. His research interests include AI-enabled perception systems, with multi-modal sensor fusion, computer vision, and predictive maintenance for unmanned and autonomous platforms. Beyond academia, he enjoys mentoring, playing lawn tennis and spending time with family.
-Supervisor:  
-More information [here]()
+<!-- Gonzalo Cancio -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/gonzalo_cancio.png" alt="Gonzalo Cancio">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Gonzalo Cancio</h4>
+</div>
 
-![isobel](images_2025/isobel_higgins.png){width=75px} Isobel Higgins
+Gonzalo is a maths graduate from the University of Glasgow. His interests include model compression techniques and use of tensor networks to explore new DL architectures, as well as connections between AI cryptography, cybersecurity and autonomous cyber defence.
 
-Isobel completed a BSc in Physics with Scientific Computing at the University of Bristol and briefly worked as a data assistant at an electric-vehicle charge-point data SME. These experiences strengthened her interest in applying analytical and problem-solving skills to real-world problems and inspired her to pursue research.  Her research interests centre on the application of AI in healthcare, especially women’s reproductive and cognitive health. Outside of her studies, Isobel enjoys expressing her creative side through dancing, playing the piano, and trying various creative crafts. 
-Supervisor:  
-More information [here]()
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
 
-![noah](images_2025/noah_baker.png){width=75px} Noah Baker
+<!-- Guoda Laurinaviciute -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/guoda_laurinaviciute.png" alt="Guoda Laurinaviciute">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Guoda Laurinaviciute</h4>
+</div>
 
-Noah graduated from the University of Cambridge in 2024 with an MEng in Information and Computer Engineering. He specialised in AI, completing a Master’s thesis on automatically detecting speech disorders in children. He is interested in neuro-symbolic AI, NLP, and generally methods of increasing the interpretability of state-of-the-art AI models. In his free time, he loves to play music and spend time in nature: hiking, camping, and climbing.
-Supervisor:  
-More information [here]()
+Guoda completed a Bachelor's degree in Artificial Intelligence at the University of Manchester before pursuing a Master’s by Research at the University of Bristol. Her research interests include UAVs, defence applications, and computer vision.
 
-![nyamvula](images_2025/nyamvula_chakaya.png){width=75px} Nyamvula Chakaya
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
 
-Chakaya is from Nairobi, Kenya and holds a BSc in Computer Science and an MSc in AI and Data Science.  She previously worked as a data scientist at iLabAfrica in Nairobi, focusing on data analysis, visualisation and machine learning. Her interests in AI include natural language processing, large language models, generative AI, AI in healthcare and ethical AI, in particular how these systems are used in real world decision making. Outside of work, I enjoy listening to music, reading books and going to the gym.
-Supervisor:  
-More information [here]()
+<!-- Ikechukwu Ofodile -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/ikechuwu_ofodile.png" alt="Ikechukwu Ofodile">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Ikechukwu Ofodile</h4>
+</div>
 
-![prya](images_2025/prya_kharbanda.png){width=75px} Priya Kharbanda 
+Ike holds degrees in Electrical & Electronics Engineering and Robotics & Computer Engineering. His research interests include AI-enabled perception systems, with multi-modal sensor fusion, computer vision, and predictive maintenance.
 
-Priya graduated from Newcastle University in 2023 with a Master’s in Electrical and Electronic Engineering and spent two years as a data consultant with a global engineering firm, working across data-driven solutions for complex technical challenges. Her studies and work in industry led her towards a strong interest in AI, particularly its applications in healthcare and its broader potential to enhance decision-making and system efficiency. She is especially interested in how AI systems earn trust in practice and how thoughtful design can support their safe, reliable use. Outside of work, she enjoys travelling, hiking, surfing, and spending time in the outdoors.
-Supervisor:  
-More information [here]()
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
 
-![russell](images_2025/russell_summers.png){width=75px} Russell Summers
+<!-- Isobel Higgins -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/isobel_higgins.jpg" alt="Isobel Higgins">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Isobel Higgins</h4>
+</div>
 
-Russell has background in Biomedical Science, conducting wet lab research exploring the role of specific gene knockouts on cognition. He has worked with the NHS and the Sanger Institute to map the spread of different coronavirus variants across the UK during the pandemic after whch he went on to earn MSc in Health Data Science and Statistics.  During his MSc, he developed machine learning models to predict Alzheimer’s disease from blood metabolite data, stage and grade meningiomas from radiomic data.  He also explored swarm optimisation algorithms with respect to multi-objective optimisation problems.
-Supervisor:  
-More information [here]()
+Isobel completed a BSc in Physics with Scientific Computing at the University of Bristol. Her research interests centre on the application of AI in healthcare, especially women’s reproductive and cognitive health.
 
-![sanjukta](images_2025/sanjukta_bhattacharya.png){width=75px} Sanjukta Bhattacharya
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
 
-Sanjukta is interested in reinforcement learning as a method to improve foundation model outputs, along with similar post-training paradigms. She is excited to explore the capabilities of such reward conditioning in reasoning tasks. Other than AI research, she usually surfs or read books spanning from fiction to very diverse & orthogonal ideas! She has a strong engineering oriented background, with an undergraduate in electrical & computer engineering and a Master's by Research in Machine Learning at the University of Edinburgh. Her thesis explored how to add logic during inference in large language models.
-Supervisor:  
-More information [here]()
+<!-- Noah Baker -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/noah_baker.png" alt="Noah Baker">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Noah Baker</h4>
+</div>
 
-![sophie](images_2025/sophie_maw.png){width=75px} Sophie Maw
+Noah graduated from the University of Cambridge with an MEng in Information and Computer Engineering. He is interested in neuro-symbolic AI, NLP, and generally methods of increasing the interpretability of state-of-the-art AI models.
 
-Sophie completed an MEng in Electronic Engineering.  Since then she worked as an AI Researcher for a start-up, alongside freelance AI work for researchers at the University of York. Her background includes computer vision, photogrammetry, MetaHuman and digital-double workflows using Unreal and Blender, building apps and developing TV-ready face-swap models used in a recent series. Her research interests include visual perception, vision systems, and human-level reasoning. Outside of work, she loves of chess, crosswords, and any puzzle or word game.  She has a keen interest in philosophy of mind and neuroscience.
-Supervisor:  
-More information [here]()
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
 
-![tom](images_2025/tom_heslin.png){width=75px} Tom Heslin
+<!-- Nyamvula Chakaya -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/nyamvula_chakaya.png" alt="Nyamvula Chakaya">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Nyamvula Chakaya</h4>
+</div>
 
-Tom graduated with an MSc in Medical Image Computing from UCL fifteen years ago. Since then, he has worked across software, MedTech, and professional services sectors. His work has involved hands on development and consulting work providing technical context to legal and financial teams for grants and M&A, alongside implementing projects such as LLM-based report drafting. He has strong leadership experience having created and managed multidisciplinary teams in a fast-growing company. His research interests focus on AI safety and explainability, with a specific interest in mechanistic interpretability within video and autonomous vehicle models. Outside of work, he spends time with his young family and practices historical fencing.
-Supervisor:  
-More information [here]()
+Chakaya holds a BSc in Computer Science and an MSc in AI and Data Science. Her interests include natural language processing, large language models, generative AI, AI in healthcare and ethical AI, in particular within real world decision making.
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
+
+<!-- Priya Kharbanda -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/prya_kharbanda.png" alt="Priya Kharbanda">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Priya Kharbanda</h4>
+</div>
+
+Priya graduated with a Master’s in Electrical and Electronic Engineering. She is especially interested in how AI systems earn trust in practice and how thoughtful design can support their safe, reliable use within healthcare.
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
+
+<!-- Russell Summers -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/russell_summers.png" alt="Russell Summers">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Russell Summers</h4>
+</div>
+
+Russell has a background in Biomedical Science and holds an MSc in Health Data Science and Statistics. During his MSc, he developed machine learning models to predict Alzheimer’s disease from blood metabolite data.
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
+
+<!-- Sanjukta Bhattacharya -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/sanjukta_bhattacharya.png" alt="Sanjukta Bhattacharya">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Sanjukta Bhattacharya</h4>
+</div>
+
+Sanjukta completed her Master's by Research in ML at the University of Edinburgh. She is interested in reinforcement learning as a method to improve foundation model outputs, along with similar post-training paradigms.
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
+
+<!-- Sophie Maw -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/sophie_maw.png" alt="Sophie Maw">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Sophie Maw</h4>
+</div>
+
+Sophie completed an MEng in Electronic Engineering and worked as an AI Researcher for a start-up. Her background includes computer vision, photogrammetry, visual perception, vision systems, and human-level reasoning.
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
+
+<!-- Tom Heslin -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2025/tom_heslin.png" alt="Tom Heslin">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Tom Heslin</h4>
+</div>
+
+Tom graduated with an MSc in Medical Image Computing from UCL. His research interests focus on AI safety and explainability, with a specific interest in mechanistic interpretability within video and autonomous vehicle models.
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** *TBC*  
+:::
+<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Personal page coming soon</span>
+:::
+:::
+
+:::

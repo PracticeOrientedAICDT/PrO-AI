@@ -1,27 +1,97 @@
 ---
-title: "Partners"
+title: ""
 ---
 
+<div class="mx-auto mt-4" style="max-width: 850px;">
+
+<h1 class="title fw-bold" style="color: #b01c2e; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 2rem;">
+  Our Partners
+</h1>
+
+<div style="text-align: justify;" class="mb-4">
 Graduates will have the sought-after skills to adapt quickly to a problem domain in science and research that they haven't worked in previously. They can become part of new and existing world-class research groups, as well as pursue highly rewarding careers in a variety of industries around the world.
 
-Our industry partners cover a broad range of AI technologies and play different roles in enhancing the PrO-AI training programme. Current partners operate in the following industry sectors
+Our industry partners cover a broad range of AI technologies and play different roles in enhancing the PrO-AI training programme. Current partners operate in the following industry sectors:
+</div>
 
-- Aerospace
-- AI Consultancy
-- Cloud computing
-- Data analytics
-- Digital democracy
-- Digital transformation
-- General Insurance
-- Geo-mapping
-- Global electronics
-- Hardware design
-- Home energy services
-- IT solutions
-- Mission-critical solutions
-- Online coaching
-- Pharmaceuticals
-- Renewable energy
-- Semiconductors
-- Technology Consultancy
-- Volumetric VR
+::: {.grid .text-center .g-3}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Aerospace</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">AI Consultancy</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Cloud computing</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Data analytics</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Digital democracy</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Digital transformation</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">General Insurance</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Geo-mapping</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Global electronics</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Hardware design</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Home energy services</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">IT solutions</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Mission-critical solutions</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Online coaching</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Pharmaceuticals</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Renewable energy</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Semiconductors</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Technology Consultancy</div>
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+<div class="p-3 border rounded-3 bg-light fw-medium shadow-sm text-secondary h-100 d-flex align-items-center justify-content-center">Volumetric VR</div>
+:::
+
+:::
+
+</div>
