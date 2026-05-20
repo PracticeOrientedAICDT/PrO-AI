@@ -1,5 +1,20 @@
 ---
-title: "Events"
+title: ""
 ---
 
+<div class="mx-auto mt-4" style="max-width: 850px;">
+
+<h1 class="title fw-bold" style="color: #b01c2e; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 2rem;">
+  Events
+</h1>
+
+<div style="text-align: justify;" class="lh-base">
+
 See [https://www.bristol.ac.uk/cdt/interactive-ai/events/](https://www.bristol.ac.uk/cdt/interactive-ai/events/).
+
+</div>
+
+</div>
+
+
+

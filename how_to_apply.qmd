@@ -1,10 +1,20 @@
 ---
-title: "How to Apply"
+title: ""
 ---
 
+<div class="mx-auto mt-4" style="max-width: 850px;">
+
+<h1 class="title fw-bold" style="color: #b01c2e; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 2rem;">
+  How to Apply
+</h1>
+
+<div style="text-align: justify;" class="lh-base">
 Applicants must hold/achieve a minimum of an upper-second class honours degree (or international equivalent)
 in a relevant discipline. The Interactive Artificial Intelligence CDT is primarily aimed at students with a
 first degree in engineering or science and with strong programming skills, but will also consider applicants
 with suitable skills acquired in employment.
 
-Online applications are expected to be opened in early 2024 for a September 2024 start. 
+Online applications are expected to be opened in early 2026 for a September 2026 start. 
+</div>
+
+</div>

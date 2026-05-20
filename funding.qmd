@@ -1,9 +1,14 @@
 ---
-title: "Funding"
+title: ""
 ---
 
+<div class="mx-auto mt-4" style="max-width: 850px;">
 
+<h1 class="title fw-bold" style="color: #b01c2e; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 2rem;">
+  Funding
+</h1>
 
+<div style="text-align: justify;" class="lh-base">
 Each year we offer ~10 fully-funded, 4 year UKRI studentships (details TBA). 
 
 These studentships are governed by UKRI/EPSRC student eligibility rules and applicants should check whether they will be eligible. We are able to offer 1-2 studentships each year to non-UK students (with international tuition fees being waived)
@@ -11,3 +16,8 @@ These studentships are governed by UKRI/EPSRC student eligibility rules and appl
 Applications received from self-funded/sponsored international and EU students are welcome and will be considered. 
 
 Information about additional funding sources can be found on the University’s fees and funding pages, the University’s International Scholarships webpage and the Faculty of Engineering postgraduate funding webpage. 
+
+</div>
+
+</div>
+

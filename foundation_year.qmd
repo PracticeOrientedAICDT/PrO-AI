@@ -5,20 +5,17 @@ title: ""
 <div class="mx-auto mt-4" style="max-width: 850px;">
 
 <h1 class="title fw-bold" style="color: #b01c2e; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 2rem;">
-  Equality, Diversity & Inclusion
+  Foundation Year
 </h1>
 
 <div style="text-align: justify;" class="lh-base">
 
   In close conversation with our industry partners, we identified Practice-Oriented Artificial Intelligence (PrO-AI) as a core sub-discipline of AI where the need for and deficit in skills is abundantly evident, while being homogeneous enough to have intellectual integrity and be explored and researched within the context of a single CDT. The most important aspects of the bespoke training programme are:
 
-    1. Practice projects will be run in close collaboration with CDT partners (academic and industry) and across CDT cohorts to offer 'deep dives' into a research domain. Students will liaise with domain experts to get an understanding of their expertise, expectations and success criteria. Exploring different domains will allow the students to acquire the transferable skills that will be key when moving between domains in their future careers.
-
-    2. The Foundations of Practice-Oriented AI module is run in a student-led, 'flipped classroom' manner and covers the main topics in data-driven AI, knowledge-intensive AI and human-AI interaction; human-centred and participatory methodologies to bring those AI techniques into practice; and the legal and ethical context that will help students to do so responsibly and in a manner beneficial to society. 
-
-    3. Academic mentors attend the sessions to gauge their mentee’s knowledge and identify areas where further study will be beneficial as part of the Research Orientation module, which completes a student’s foundational training in an individual-centred manner and guides them on the way to choosing a research topic for the Summer Project and subsequent PhD research.
-
-    4. Throughout their programme the students participate in and build an online portfolio of transferable skills training inspired by the Vitae Researcher Development Framework. This includes training in responsible innovation, entrepreneurship, hosting visitors, organising events, public engagement, citizen science, etc. A ‘serious game’ approach will encourage students to build their Researcher Development portfolio, unlocking additional research and training support resources when they reach certain milestones.
+1. Practice projects will be run in close collaboration with CDT partners (academic and industry) and across CDT cohorts to offer 'deep dives' into a research domain. Students will liaise with domain experts to get an understanding of their expertise, expectations and success criteria. Exploring different domains will allow the students to acquire the transferable skills that will be key when moving between domains in their future careers.
+2. The Foundations of Practice-Oriented AI module is run in a student-led, 'flipped classroom' manner and covers the main topics in data-driven AI, knowledge-intensive AI and human-AI interaction; human-centred and participatory methodologies to bring those AI techniques into practice; and the legal and ethical context that will help students to do so responsibly and in a manner beneficial to society. 
+3. Academic mentors attend the sessions to gauge their mentee’s knowledge and identify areas where further study will be beneficial as part of the Research Orientation module, which completes a student’s foundational training in an individual-centred manner and guides them on the way to choosing a research topic for the Summer Project and subsequent PhD research.
+4. Throughout their programme the students participate in and build an online portfolio of transferable skills training inspired by the Vitae Researcher Development Framework. This includes training in responsible innovation, entrepreneurship, hosting visitors, organising events, public engagement, citizen science, etc. A ‘serious game’ approach will encourage students to build their Researcher Development portfolio, unlocking additional research and training support resources when they reach certain milestones.
 
 </div>
 
