@@ -151,10 +151,10 @@ Jake is building a reasoning pipeline that combines neural and symbolic methods 
   <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">James Brock</h4>
 </div>
 
-James is building a reasoning pipeline that combines neural and symbolic methods over knowledge graphs, with mechanisms for empirical rule validation and probabilistic inference, aimed at complex decision-making tasks.
+James investigates how to improve forest change analysis for practitioners through vision foundation models and interactive agents, aiming to enhance the utility, accuracy, and usability of forest monitoring tools for conservation efforts.
 
 ::: {.student-supervisor .mt-3}
-**Supervisor:** Dr. James Cussens  
+**Supervisor:** Dr. Nantheera Anantrasirichai
 *School of Computer Science*
 :::
 [View Personal Page →](https://jamesbrockuob.github.io/personal_page/){.student-link target="_blank"}
