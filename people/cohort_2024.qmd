@@ -79,13 +79,14 @@ Berenika investigates how simulations can be used to personalise physical activi
   <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Bezawit Tilaye</h4>
 </div>
 
-Bezawit's work critically examines how fairness, accountability, and transparency are addressed in healthcare AI systems, with the goal of identifying practical gaps and improving ethical standards in medical AI applications.
+Bezawit focuses on the evaluation and mitigation of cognitive biases in AI-assisted decision-making, with the aim of developing responsible AI systems that better support human judgment and decision-making.
 
 ::: {.student-supervisor .mt-3}
 **Supervisor:** Dr. Telmo de Menezes e Silva Filho  
 *School of Engineering Mathematics and Technology*
 :::
-<span style="color:#94a3b8; font-size:0.9rem; margin-top:10px; font-weight:600;">Profile coming soon</span>
+[View Personal Page →](https://bezawitl.github.io/personal_page/){.student-link target="_blank"}
+
 :::
 :::
 
