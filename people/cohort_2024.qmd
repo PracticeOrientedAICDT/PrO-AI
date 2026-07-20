@@ -188,11 +188,11 @@ Jono explores how adversarial strategies develop in the game of Go, aiming to cl
   <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Moses Guran</h4>
 </div>
 
-Moses introduces a novel video compression method inspired by neural spiking behaviour. The project aims to reduce data rates while preserving quality, opening new directions in biologically inspired video coding.
+Moses studies biologically inspired representations in the field of video tactile sensing. The project aims to combine neuromorphic and digital options to decrease the latency of robotic hands with no noticeable effect on their sensors' accuracy.
 
 ::: {.student-supervisor .mt-3}
-**Supervisor:** Dr. Aaron Zhang  
-*School of Computer Science*
+**Supervisor:** Prof. Nathan Lepora  
+*School of Engineering Mathematics and Technology*
 :::
 [View Personal Page →](https://moiseguran13.github.io/personal_page/){.student-link target="_blank"}
 :::
