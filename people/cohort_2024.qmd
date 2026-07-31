@@ -116,13 +116,13 @@ David focuses on developing techniques that generate high-quality interpolated v
   <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Jack Woodcock</h4>
 </div>
 
-Jack evaluates how effectively ML-based climate models capture extreme weather events, examining the models’ understanding of the underlying physics to offer insights into their predictive capabilities and limitations for real-world climate forecasting.
+Jack’s research focuses on machine-learning-based climate emulation. He has evaluated how well a global atmospheric emulator reproduces regional climate statistics and extreme weather, and is currently developing a regional climate emulator.
 
 ::: {.student-supervisor .mt-3}
 **Supervisor:** Dr. Peter Watson  
 *School of Geographical Sciences*
 :::
-[View Personal Page →](https://proai-jack.github.io/personal_page/){.student-link target="_blank"}
+[View Personal Page →](https://uob-jack.github.io/personal_page/){.student-link target="_blank"}
 :::
 :::
 
