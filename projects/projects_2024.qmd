@@ -1,0 +1,128 @@
+---
+title: "Projects 2024"
+format: html
+---
+
+::: {.callout-note appearance="minimal" style="border-left-color: #b01c2e;"}
+Explore the active research projects led by students and researchers in the Practice-Oriented AI CDT.
+:::
+
+<style>
+  .project-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .project-card:hover {
+    transform: translateY(-4px);
+    border-color: #b01c2e;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
+  .project-badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #b01c2e;
+    background: #fdf2f2;
+    padding: 4px 8px;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  .project-details {
+    font-size: 0.85rem;
+    background: #f8fafc;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: auto; /* Empurra os detalhes e o link para a base do card */
+  }
+  .project-link {
+    color: #b01c2e;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  .project-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+::: {.grid}
+
+<!-- Project 1 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">Materials Discovery</h4>
+
+This project is aimed at developing ML and DL models for predicting various properties given input SMILES strings for various polymers.
+
+::: {.project-details .mt-3}
+**Researchers:** James Brock, David Fox, Moise Guran and Berenika Ewart-James   
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/material_project_2024){.project-link target="_blank"}
+:::
+:::
+
+<!-- Project 2 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">Cyber Project</h4>
+
+This project is an adaptation of the CybORG CAGE Challenge 4, designed for training and evaluating reinforcement learning models (RLlib PPO) in cybersecurity scenarios.
+
+::: {.project-details .mt-3}
+**Researchers:**  Jack Woodcock, Jake Chastney and Jono Vincent
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/cyber_project_2024){.project-link target="_blank"}
+:::
+:::
+
+<!-- Project 3 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">Condense Project</h4>
+
+
+
+::: {.project-details .mt-3}
+**Researchers:**  Jack Woodcock, David Fox and Berenika Ewart-James
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/condense_project_2025){.project-link target="_blank"}
+:::
+:::
+
+<!-- Project 4 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">Unisys Project</h4>
+
+This project is focussed on investigating the application of AI to improving the workflow of IT management systems (ITMS).
+
+::: {.project-details .mt-3}
+**Researchers:**  Bezawit Lake Tilaye, James Brock, Jake Chastney, Moise Guran
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/condense_project_2025){.project-link target="_blank"}
+:::
+:::
+
+:::

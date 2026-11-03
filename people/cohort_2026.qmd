@@ -1,0 +1,327 @@
+---
+title: "Cohort 2026"
+format: html
+---
+
+::: {.callout-note appearance="minimal" style="border-left-color: #b01c2e;"}
+PhD researchers who joined the Practice-Oriented AI CDT in the 2026 cohort.
+:::
+
+<style>
+  .student-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .student-card:hover {
+    transform: translateY(-4px);
+    border-color: #b01c2e;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
+  .student-img {
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #e2e8f0;
+  }
+  .student-supervisor {
+    font-size: 0.85rem;
+    background: #f8fafc;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: auto; /* Empurra o supervisor e o link para a base do card */
+  }
+  .student-link {
+    color: #b01c2e;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  .student-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+::: {.grid}
+
+<!-- Grace Gilman -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Grace Gilman">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Grace Gilman</h4>
+</div>
+
+TBD.
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Pauline Rowntree -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Pauline Rowntree">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Pauline Rowntree</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+
+:::
+:::
+
+<!-- William Dennis -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="William Dennis">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">William Dennis</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Joyann Boyce -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Joyann Boyce">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Joyann Boyce</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Luke Humprhrey -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Luke Humprhrey">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Luke Humprhrey</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Nagat Guled -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Nagat Guled">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Nagat Guled</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- William Baikoski -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="William Baikoski">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">William Baikoski</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Diana Liu -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt=" Diana Liu">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;"> Diana Liu</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:**   
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Alex Baousis -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Alex Baousis">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Alex Baousis</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Dhruv Chauhan -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Dhruv Chauhan">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Dhruv Chauhan</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Stan Richards -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Stan Richards">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Stan Richards</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Jono Derby -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Jono Derby">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Jono Derby</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Winfred Mutie -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Winfred Mutie">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Winfred Mutie</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Ommy Akhigbe -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Ommy Akhigbe">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Ommy Akhigbe</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+<!-- Max Harrison -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.student-card}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <img class="student-img" src="images_2024/user.jpg" alt="Max Harrison">
+  <h4 class="fw-bold m-0 fs-5" style="color: #1e293b;">Max Harrison</h4>
+</div>
+
+TBD
+
+::: {.student-supervisor .mt-3}
+**Supervisor:** TBD  
+**
+:::
+[View Personal Page →](){.student-link target="_blank"}
+:::
+:::
+
+:::

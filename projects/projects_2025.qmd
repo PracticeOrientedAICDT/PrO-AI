@@ -1,0 +1,165 @@
+---
+title: "Projects 2024"
+format: html
+---
+
+::: {.callout-note appearance="minimal" style="border-left-color: #b01c2e;"}
+Explore the active research projects led by students and researchers in the Practice-Oriented AI CDT.
+:::
+
+<style>
+  .project-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .project-card:hover {
+    transform: translateY(-4px);
+    border-color: #b01c2e;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
+  .project-badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #b01c2e;
+    background: #fdf2f2;
+    padding: 4px 8px;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  .project-details {
+    font-size: 0.85rem;
+    background: #f8fafc;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: auto; /* Empurra os detalhes e o link para a base do card */
+  }
+  .project-link {
+    color: #b01c2e;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  .project-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+::: {.grid}
+
+<!-- Project 1 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">Psychometrics</h4>
+
+Overview of recent developments in Item Response Theory (IRT), including Deep IRT, Bayesian extensions, and adaptive cognitive assessment methods.
+
+::: {.project-details .mt-3}
+**Researchers:** Nyamvula Chakaya, Gonzalo Cancio, Sophie Maw, Noah Barker and Russel Summers    
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/Psychometrics---Autumn-2025){.project-link target="_blank"}
+:::
+:::
+
+<!-- Project 2 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">Common-Crawl</h4>
+
+This project contains three core sections and the associated scripts used to analyse UK businesses, websites, and publicly available online content.
+
+::: {.project-details .mt-3}
+**Researchers:**  Prya Kharbanda, Tom Heslin, Isobel Higgins and Sanjukta Bhattacharya 
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/cyber_project_2024){.project-link target="_blank"}
+:::
+:::
+
+<!-- Project 2 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">Multi-Objective Recommendation Systems</h4>
+
+This project was part of the Practice Projects module in TB1 2025, for the Practice-Oriented AI CDT at the University of Bristol.
+
+There are two disparate strands in this project which investigated Top-N models and prompt-based models. Top-N models work by recommending the N most relevant movies for a specific user, based on their predicted ratings. Whereas, prompt-based models generate a slate of movies that fit a text-based prompt.
+
+
+::: {.project-details .mt-3}
+**Researchers:**  Abby Morris, Ed Daniels, Guoda Laurinaviciute and Ikechuwu Ofodile 
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/cyber_project_2024){.project-link target="_blank"}
+:::
+:::
+
+<!-- Project 3 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">Factory DQN — Reward Shaping, Abstraction, and Explainability</h4>
+
+This project trains and compares DQN agents on a custom Factory logistics environment (a Taxi-v3-style task with walls and slow zones). The project investigates how different training methods — reward shaping, abstract-state shaping, curriculum learning, and action masking — affect learning, final performance, and explainability.
+
+::: {.project-details .mt-3}
+**Researchers:**  Gonzalo Cancio, Tom Heslin, Guoda Laurinaviciute and Noah Barker
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/Airbus_Project_Spring_2026){.project-link target="_blank"}
+:::
+:::
+
+<!-- Project 4 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">PassivUK</h4>
+
+This project looked at exploring how explainable AI (XAI) techniques could be used to give informative data displays to users of the PassivUK Smart Heat Pump Thermostat system. To better understand the code in this repository please request a copy of the final report from one of the team members listed below.
+
+::: {.project-details .mt-3}
+**Researchers:**  Abby Morris, Nyamvula Chakaya, Isobel Higgins and Prya Kharbanda
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/PassivUK_Project_Spring_2026){.project-link target="_blank"}
+:::
+:::
+
+<!-- Project 5 -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.project-card}
+<div class="mb-2">
+  <span class="project-badge"></span>
+</div>
+<h4 class="fw-bold fs-5 mb-2" style="color: #1e293b;">OS Project</h4>
+
+
+::: {.project-details .mt-3}
+**Researchers:**  Abby Morris, Nyamvula Chakaya, Isobel Higgins and Prya Kharbanda
+:::
+[View Project Details →](https://github.com/PracticeOrientedAICDT/OS_Project_Spring_2026){.project-link target="_blank"}
+:::
+:::
+
+
+:::

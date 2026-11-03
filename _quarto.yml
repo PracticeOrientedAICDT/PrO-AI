@@ -39,11 +39,18 @@ website:
             file: people/cohort_2024.qmd
           - text: "Cohort 2025"
             file: people/cohort_2025.qmd
+          - text: "Cohort 2026"
+            file: people/cohort_2026.qmd
           - text: "Supervisors"
             file: people/supervisors.qmd
           - text: "Professional Staff"
             file: people/staff.qmd
-
+      - section: "Projects"
+        contents:
+          - text: "2024"
+            file: projects/projects_2024.qmd
+          - text: "2025"
+            file: projects/projects_2025.qmd
       - section: "Apply"  
         contents:
           - text: "Why Study With Us"
